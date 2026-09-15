@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:07,600
+Flo, tell me about Grandpa Bill. Where does he live?
+Flo, kể cho mình nghe về Ông Bill đi. Ông ấy sống ở đâu?
+
+2
+00:00:07,600 --> 00:00:10,200
+He lives on a farm.
+Ông ấy sống ở nông trại.
+
+3
+00:00:10,200 --> 00:00:13,120
+How often do you see him?
+Bạn thường gặp ông ấy bao lâu một lần?
+
+4
+00:00:13,120 --> 00:00:17,120
+We visit him once a week, on Sundays.
+Chúng mình đến thăm ông ấy mỗi tuần một lần, vào Chủ nhật.
+
+5
+00:00:17,120 --> 00:00:20,679
+And what do you do together?
+Và hai người cùng làm gì?
+
+6
+00:00:20,679 --> 00:00:28,839
+Grandpa Bill loves telling stories. We always say, tell us a story, Grandpa, please.
+Ông Bill thích kể chuyện. Chúng mình luôn nói, kể chuyện cho chúng cháu đi, Ông ơi.
+
+7
+00:00:28,839 --> 00:00:32,439
+How many grandchildren has he got?
+Ông ấy có bao nhiêu cháu?
+
+8
+00:00:32,439 --> 00:00:44,560
+Me and my two brothers, my sister, that's four, and my five cousins. So, four and five make nine.
+Mình và hai anh em trai, chị gái, là bốn, và năm anh chị em họ. Vậy, bốn cộng năm là chín.
+
+9
+00:00:44,560 --> 00:00:47,679
+He's got nine grandchildren.
+Ông ấy có chín cháu.
+
+10
+00:00:47,679 --> 00:00:52,039
+Does he play a musical instrument?
+Ông ấy có chơi nhạc cụ nào không?
+
+11
+00:00:52,039 --> 00:00:56,679
+Yes, he plays the piano.
+Có, ông ấy chơi đàn piano.
+
+12
+00:00:56,679 --> 00:01:04,439
+Ella, tell me about Grandpa Bob. Where does he live?
+Ella, kể cho mình nghe về Ông Bob đi. Ông ấy sống ở đâu?
+
+13
+00:01:04,439 --> 00:01:08,560
+He lives in a flat, next to our house.
+Ông ấy sống trong căn hộ, bên cạnh nhà chúng mình.
+
+14
+00:01:08,560 --> 00:01:11,519
+How often do you see him?
+Bạn thường gặp ông ấy bao lâu một lần?
+
+15
+00:01:11,519 --> 00:01:17,079
+I see him every day. We always have dinner together.
+Mình gặp ông ấy mỗi ngày. Chúng mình luôn ăn tối cùng nhau.
+
+16
+00:01:17,079 --> 00:01:21,039
+And what do you do together?
+Và hai người cùng làm gì?
+
+17
+00:01:21,080 --> 00:01:28,480
+Grandpa Bob loves painting pictures. Sometimes we paint together.
+Ông Bob thích vẽ tranh. Đôi khi chúng mình vẽ cùng nhau.
+
+18
+00:01:28,480 --> 00:01:32,160
+How many grandchildren has he got?
+Ông ấy có bao nhiêu cháu?
+
+19
+00:01:32,160 --> 00:01:38,320
+Four. Me and Flo and Luke and Charlie.
+Bốn. Mình và Flo và Luke và Charlie.
+
+20
+00:01:38,320 --> 00:01:42,000
+Does he play a musical instrument?
+Ông ấy có chơi nhạc cụ nào không?
+
+21
+00:01:42,000 --> 00:01:48,000
+Yes, he plays the trumpet.
+Có, ông ấy chơi kèn trumpet.

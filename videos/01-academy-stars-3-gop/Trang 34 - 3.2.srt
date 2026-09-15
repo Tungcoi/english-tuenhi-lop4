@@ -1,0 +1,94 @@
+1
+00:00:00,000 --> 00:00:05,299
+Track 3.2, Unit 3, Lesson 1, Activity 2
+Bài 3.2, Bài 3, Tiết 1, Hoạt động 2
+
+2
+00:00:05,600 --> 00:00:09,099
+Listen and play the game. What's next?
+Nghe và chơi trò chơi. Tiếp theo là gì?
+
+3
+00:00:09,900 --> 00:00:11,099
+cafe
+quán cà phê
+
+4
+00:00:11,700 --> 00:00:13,500
+train station
+ga tàu
+
+5
+00:00:16,000 --> 00:00:17,300
+cinema
+rạp chiếu phim
+
+6
+00:00:20,500 --> 00:00:21,699
+cinema
+rạp chiếu phim
+
+7
+00:00:22,699 --> 00:00:23,900
+bus stop
+trạm xe buýt
+
+8
+00:00:26,600 --> 00:00:28,300
+shopping centre
+trung tâm mua sắm
+
+9
+00:00:30,000 --> 00:00:34,299
+now you
+bây giờ đến bạn
+
+10
+00:00:35,000 --> 00:00:39,299
+1. shopping centre
+1. trung tâm mua sắm
+
+11
+00:00:39,600 --> 00:00:41,299
+swimming pool
+bể bơi
+
+12
+00:00:44,000 --> 00:00:48,299
+2. library
+2. thư viện
+
+13
+00:00:48,600 --> 00:00:50,299
+hospital
+bệnh viện
+
+14
+00:00:54,000 --> 00:00:58,299
+3. hospital
+3. bệnh viện
+
+15
+00:00:58,299 --> 00:01:00,599
+supermarket
+siêu thị
+
+16
+00:01:04,299 --> 00:01:08,099
+4. bank
+4. ngân hàng
+
+17
+00:01:08,799 --> 00:01:10,599
+cafe
+quán cà phê
+
+18
+00:01:13,799 --> 00:01:18,599
+5. train station
+5. ga tàu
+
+19
+00:01:19,299 --> 00:01:20,599
+cinema
+rạp chiếu phim

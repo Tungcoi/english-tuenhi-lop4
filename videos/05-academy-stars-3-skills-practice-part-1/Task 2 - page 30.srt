@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:02,000
+Twelve point six.
+Mười hai chấm sáu.
+
+2
+00:00:02,839 --> 00:00:04,839
+Listen to the conversation.
+Nghe đoạn hội thoại.
+
+3
+00:00:05,639 --> 00:00:11,800
+Write a tick if Gemma likes it and a cross if Gemma doesn't like it.
+Viết dấu tích nếu Gemma thích và dấu chéo nếu Gemma không thích.
+
+4
+00:00:14,099 --> 00:00:20,800
+Hi Gemma, I've got a questionnaire about food. Can you help me? Yes, of course.
+Chào Gemma, tôi có một bảng câu hỏi về thức ăn. Bạn giúp tôi được không? Vâng, tất nhiên rồi.
+
+5
+00:00:21,780 --> 00:00:23,000
+Thanks.
+Cảm ơn.
+
+6
+00:00:23,000 --> 00:00:27,620
+Do you eat fish? Yes, I do. I love fish.
+Bạn có ăn cá không? Có. Tôi rất thích cá.
+
+7
+00:00:28,540 --> 00:00:33,620
+Do you eat meat? No, I don't. I don't like it.
+Bạn có ăn thịt không? Không. Tôi không thích thịt.
+
+8
+00:00:34,859 --> 00:00:36,660
+Okay.
+Được rồi.
+
+9
+00:00:36,660 --> 00:00:38,660
+What about vegetables?
+Còn rau thì sao?
+
+10
+00:00:38,980 --> 00:00:40,980
+Do you like vegetables?
+Bạn có thích rau không?
+
+11
+00:00:41,340 --> 00:00:45,500
+Not really. I don't like carrots or peas.
+Không hẳn. Tôi không thích cà rốt hay đậu Hà Lan.
+
+12
+00:00:46,380 --> 00:00:49,340
+Do you like fruit? Yes, I do.
+Bạn có thích trái cây không? Có.
+
+13
+00:00:50,380 --> 00:00:52,740
+What is your favorite fruit?
+Trái cây yêu thích của bạn là gì?
+
+14
+00:00:53,620 --> 00:00:57,400
+I like mango. I also like strawberries.
+Tôi thích xoài. Tôi cũng thích dâu tây.
+
+15
+00:00:58,460 --> 00:01:00,099
+Okay.
+Được rồi.
+
+16
+00:01:00,099 --> 00:01:02,259
+I've got two more questions.
+Tôi còn hai câu hỏi nữa.
+
+17
+00:01:03,339 --> 00:01:05,539
+What do you have for breakfast?
+Bạn ăn gì cho bữa sáng?
+
+18
+00:01:06,659 --> 00:01:11,060
+I normally have toast and jam. I also like eggs.
+Tôi thường ăn bánh mì nướng và mứt. Tôi cũng thích trứng.
+
+19
+00:01:12,060 --> 00:01:19,979
+Do you drink coffee? No, I don't. I don't like coffee. I like milk or hot chocolate.
+Bạn có uống cà phê không? Không. Tôi không thích cà phê. Tôi thích sữa hoặc sô-cô-la nóng.
+
+20
+00:01:22,259 --> 00:01:24,379
+Thanks Gemma. That's great.
+Cảm ơn Gemma. Tuyệt vời.
+
+21
+00:01:27,620 --> 00:01:29,820
+You
+Bạn

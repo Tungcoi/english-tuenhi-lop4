@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:02,819
+Track 0.2. Welcome.
+Bài 0.2. Chào mừng.
+
+2
+00:00:02,819 --> 00:00:05,360
+Lesson 1. Activity 3.
+Tiết 1. Hoạt động 3.
+
+3
+00:00:05,520 --> 00:00:09,380
+Listen and match the information to the Academy stars.
+Nghe và nối thông tin với các Ngôi sao Học viện.
+
+4
+00:00:10,160 --> 00:00:13,839
+Hi, I'm Flo and I'm 8 years old.
+Xin chào, mình là Flo và mình 8 tuổi.
+
+5
+00:00:13,839 --> 00:00:17,280
+I'm in Class 3 with my sister, Ella.
+Mình học lớp 3 cùng chị mình, Ella.
+
+6
+00:00:17,500 --> 00:00:21,760
+My favourite colour is pink and my favourite food is mango.
+Màu yêu thích của mình là hồng và món ăn yêu thích là xoài.
+
+7
+00:00:22,039 --> 00:00:25,920
+I like swimming and I like playing with my friend's cat.
+Mình thích bơi và thích chơi với con mèo của bạn mình.
+
+8
+00:00:26,240 --> 00:00:29,359
+Cats are my favourite animals.
+Mèo là động vật yêu thích của mình.
+
+9
+00:00:30,399 --> 00:00:35,759
+Hello, my name's Charlie and I'm 5 years old.
+Xin chào, mình tên Charlie và mình 5 tuổi.
+
+10
+00:00:36,000 --> 00:00:38,399
+I go to kindergarten.
+Mình đi mẫu giáo.
+
+11
+00:00:38,600 --> 00:00:44,359
+My favourite colour is red and my favourite food is chocolate ice cream.
+Màu yêu thích của mình là đỏ và món ăn yêu thích là kem sô-cô-la.
+
+12
+00:00:44,719 --> 00:00:50,840
+I like playing basketball with my brother, Luke and I like elephants.
+Mình thích chơi bóng rổ với anh trai, Luke và mình thích voi.
+
+13
+00:00:51,600 --> 00:00:56,000
+Hi, I'm Luke and I'm 11 years old.
+Xin chào, mình là Luke và mình 11 tuổi.
+
+14
+00:00:56,679 --> 00:00:58,719
+I'm in Class 6 now.
+Giờ mình học lớp 6.
+
+15
+00:00:59,039 --> 00:01:01,359
+My favourite colour is blue.
+Màu yêu thích của mình là xanh dương.
+
+16
+00:01:01,600 --> 00:01:04,400
+That's why I'm wearing this t-shirt.
+Đó là lý do mình mặc chiếc áo phông này.
+
+17
+00:01:04,879 --> 00:01:07,200
+My favourite food is a burger.
+Món ăn yêu thích của mình là bánh hamburger.
+
+18
+00:01:07,359 --> 00:01:10,959
+I like playing football and I like watching it too.
+Mình thích chơi bóng đá và cũng thích xem nữa.
+
+19
+00:01:11,359 --> 00:01:13,120
+I like big animals.
+Mình thích động vật lớn.
+
+20
+00:01:13,280 --> 00:01:16,319
+My favourite animal is a lion.
+Động vật yêu thích của mình là sư tử.
+
+21
+00:01:17,280 --> 00:01:21,920
+Hello, my name's Ella and I'm 8 years old.
+Xin chào, mình tên Ella và mình 8 tuổi.
+
+22
+00:01:22,159 --> 00:01:25,120
+I'm in Class 3 with my sister, Flo.
+Mình học lớp 3 cùng em mình, Flo.
+
+23
+00:01:25,520 --> 00:01:30,079
+My favourite colour is yellow, like my t-shirt.
+Màu yêu thích của mình là vàng, giống chiếc áo phông của mình.
+
+24
+00:01:30,560 --> 00:01:36,320
+Grapes are my favourite food and I like playing tennis with my friends.
+Nho là món ăn yêu thích của mình và mình thích chơi quần vợt với bạn bè.
+
+25
+00:01:36,719 --> 00:01:40,320
+Horses are my favourite animals.
+Ngựa là động vật yêu thích của mình.

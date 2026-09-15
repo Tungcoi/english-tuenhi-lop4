@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:16,000
+Faster, faster says the starfish to the shark. The party's starting.
+Nhanh hơn, nhanh hơn, sao biển nói với cá mập. Bữa tiệc sắp bắt đầu.
+
+2
+00:00:20,000 --> 00:00:24,000
+Now say the missing words.
+Bây giờ hãy nói các từ còn thiếu.
+
+3
+00:00:24,000 --> 00:00:45,000
+Faster, faster says the starfish to the shark. The party's starting.
+Nhanh hơn, nhanh hơn, sao biển nói với cá mập. Bữa tiệc sắp bắt đầu.
+
+4
+00:00:45,000 --> 00:00:57,000
+Faster, faster says the starfish. The party's starting.
+Nhanh hơn, nhanh hơn, sao biển nói. Bữa tiệc sắp bắt đầu.
+
+5
+00:00:57,000 --> 00:01:01,000
+to the shark
+với cá mập
+
+6
+00:01:01,000 --> 00:01:09,000
+Faster, faster says the shark. The party's starting.
+Nhanh hơn, nhanh hơn, cá mập nói. Bữa tiệc sắp bắt đầu.
+
+7
+00:01:09,000 --> 00:01:14,000
+the starfish to
+sao biển với
+
+8
+00:01:14,000 --> 00:01:18,000
+the shark
+cá mập

@@ -1,0 +1,129 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hello?
+Xin chào?
+
+2
+00:00:01,000 --> 00:00:13,919
+Hello. It's Detective Lily Barnes here.
+Xin chào. Thám tử Lily Barnes đây.
+
+3
+00:00:13,919 --> 00:00:19,519
+Hello Lily. So, where were they on Saturday?
+Xin chào Lily. Vậy, thứ Bảy họ ở đâu?
+
+4
+00:00:19,519 --> 00:00:22,359
+Well, first Fred.
+À, đầu tiên là Fred.
+
+5
+00:00:22,359 --> 00:00:27,320
+OK. Fred. Where was he?
+Được. Fred. Anh ấy ở đâu?
+
+6
+00:00:27,320 --> 00:00:29,920
+He was at the swimming pool.
+Anh ấy ở bể bơi.
+
+7
+00:00:29,920 --> 00:00:35,000
+So, Fred was at the swimming pool.
+Vậy, Fred ở bể bơi.
+
+8
+00:00:38,840 --> 00:00:40,840
+Who's next?
+Tiếp theo là ai?
+
+9
+00:00:40,840 --> 00:00:42,600
+Paul.
+Paul.
+
+10
+00:00:42,600 --> 00:00:47,400
+OK. So, where was Paul?
+Được. Vậy, Paul ở đâu?
+
+11
+00:00:47,400 --> 00:00:50,920
+He was at the shopping centre.
+Anh ấy ở trung tâm mua sắm.
+
+12
+00:00:50,920 --> 00:00:55,240
+At the shopping centre? OK.
+Ở trung tâm mua sắm à? Được.
+
+13
+00:00:58,320 --> 00:01:01,320
+And who's next?
+Và tiếp theo là ai?
+
+14
+00:01:01,320 --> 00:01:07,319
+Next is Vicki. She was at the train station.
+Tiếp theo là Vicki. Cô ấy ở ga tàu.
+
+15
+00:01:07,319 --> 00:01:12,319
+At the train station, eh? OK.
+Ở ga tàu à? Được.
+
+16
+00:01:12,319 --> 00:01:21,319
+Vicki was at the train station.
+Vicki ở ga tàu.
+
+17
+00:01:21,319 --> 00:01:26,319
+And John? Where was he?
+Còn John? Anh ấy ở đâu?
+
+18
+00:01:26,319 --> 00:01:32,319
+John? Well, he was shopping at the supermarket.
+John à? À, anh ấy đang mua sắm ở siêu thị.
+
+19
+00:01:32,319 --> 00:01:38,319
+John was at the supermarket. OK.
+John ở siêu thị. Được.
+
+20
+00:01:41,319 --> 00:01:43,319
+Is that everyone?
+Hết mọi người chưa?
+
+21
+00:01:43,319 --> 00:01:49,319
+No. There's one more woman. Sarah.
+Chưa. Còn một phụ nữ nữa. Sarah.
+
+22
+00:01:49,319 --> 00:01:53,319
+OK. Where was Sarah?
+Được. Sarah ở đâu?
+
+23
+00:01:53,319 --> 00:01:57,319
+She was at the library.
+Cô ấy ở thư viện.
+
+24
+00:01:57,319 --> 00:02:01,319
+At the library. OK.
+Ở thư viện. Được.
+
+25
+00:02:03,319 --> 00:02:08,319
+I'm going to send you an email with their photos now.
+Bây giờ tôi sẽ gửi cho bạn email có ảnh của họ.
+
+26
+00:02:08,319 --> 00:02:15,319
+OK. Thank you, Lily. You're a very good detective.
+Được. Cảm ơn, Lily. Bạn là một thám tử rất giỏi.

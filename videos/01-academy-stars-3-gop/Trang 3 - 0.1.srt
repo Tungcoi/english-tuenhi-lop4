@@ -1,0 +1,89 @@
+1
+00:00:00,000 --> 00:00:02,680
+Track 0.1 Welcome
+Bài 0.1 Chào mừng
+
+2
+00:00:02,680 --> 00:00:05,360
+Lesson 1 Activity 1
+Tiết 1 Hoạt động 1
+
+3
+00:00:05,700 --> 00:00:09,380
+Meet the Academy Stars Listen and Point
+Gặp gỡ các Ngôi sao Học viện Nghe và Chỉ
+
+4
+00:00:10,160 --> 00:00:12,160
+Hi, I'm Flo
+Xin chào, mình là Flo
+
+5
+00:00:12,460 --> 00:00:13,640
+This is Ella
+Đây là Ella
+
+6
+00:00:13,859 --> 00:00:15,359
+We're twins
+Chúng mình là sinh đôi
+
+7
+00:00:15,599 --> 00:00:20,039
+This year I want to learn about celebrations around the world
+Năm nay mình muốn tìm hiểu về các lễ hội trên thế giới
+
+8
+00:00:21,280 --> 00:00:26,160
+And I want to write emails to schools in other countries
+Và mình muốn viết email cho các trường ở các nước khác
+
+9
+00:00:27,240 --> 00:00:28,620
+I'm Luke
+Mình là Luke
+
+10
+00:00:29,019 --> 00:00:31,019
+I'm their big brother
+Mình là anh trai của họ
+
+11
+00:00:31,260 --> 00:00:34,660
+This year I want to learn how to use a dictionary
+Năm nay mình muốn học cách sử dụng từ điển
+
+12
+00:00:36,060 --> 00:00:37,700
+I'm Charlie
+Mình là Charlie
+
+13
+00:00:37,980 --> 00:00:39,980
+I'm their little brother
+Mình là em trai của họ
+
+14
+00:00:40,140 --> 00:00:43,859
+This year I want to see lots of animals
+Năm nay mình muốn xem nhiều động vật
+
+15
+00:00:44,340 --> 00:00:48,100
+Let's go to the sea and to the desert too
+Hãy đi biển và cả sa mạc nữa
+
+16
+00:00:48,340 --> 00:00:50,340
+Do you want to come with us?
+Bạn có muốn đi cùng chúng mình không?
+
+17
+00:00:52,299 --> 00:00:55,180
+Hello, I'm Aunt Daisy
+Xin chào, tôi là Dì Daisy
+
+18
+00:00:55,179 --> 00:00:58,700
+I do lots of fun things with the children
+Tôi làm nhiều điều vui với các bạn nhỏ

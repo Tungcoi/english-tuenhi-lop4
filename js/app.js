@@ -123,6 +123,16 @@
 
   // --- Event: Track click ---
   document.addEventListener("click", function (e) {
+    var subBtn = e.target.closest(".ai-track-sub");
+    if (subBtn) {
+      e.stopPropagation();
+      var srtPath = subBtn.dataset.srt;
+      var trackEl = subBtn.closest(".ai-track");
+      var trackName = trackEl ? trackEl.dataset.name : "Phụ đề";
+      showSubtitle(srtPath, trackName);
+      return;
+    }
+
     var track = e.target.closest(".ai-track");
     if (track) {
       var si = parseInt(track.dataset.section, 10);
@@ -272,6 +282,97 @@
   function init() {
     attachVideoEvents();
     restoreSession();
+  }
+
+  // --- Subtitle Viewer ---
+  function parseSRT(text) {
+    var blocks = text.trim().split(/\r?\n\r?\n/);
+    var subs = [];
+    blocks.forEach(function (block) {
+      var lines = block.split(/\r?\n/);
+      if (lines.length >= 3) {
+        var index = lines[0];
+        var timeLine = lines[1];
+        var english = lines[2];
+        var vietnamese = lines.length > 3 ? lines[3] : "";
+        
+        var timeParts = timeLine.split(" --> ");
+        var timeStart = timeParts[0] ? timeParts[0].split(",")[0] : "";
+        if (timeStart.startsWith("00:")) {
+          timeStart = timeStart.substring(3);
+        }
+        
+        subs.push({
+          index: index,
+          timeStart: timeStart,
+          english: english,
+          vietnamese: vietnamese
+        });
+      }
+    });
+    return subs;
+  }
+
+  function showSubtitle(srtPath, trackName) {
+    var modal = $("subModal");
+    if (!modal) {
+      modal = document.createElement("div");
+      modal.id = "subModal";
+      modal.className = "sub-modal-overlay";
+      modal.innerHTML = `
+        <div class="sub-modal">
+          <div class="sub-modal-header">
+            <h3 id="subModalTitle">Phụ đề song ngữ</h3>
+            <button id="subModalClose" class="sub-modal-close"><svg viewBox="0 0 24 24" width="24" height="24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" fill="currentColor"/></svg></button>
+          </div>
+          <div class="sub-modal-body">
+            <table class="sub-table">
+              <thead>
+                <tr>
+                  <th class="col-index">#</th>
+                  <th class="col-time">Thời gian</th>
+                  <th class="col-en">Tiếng Anh</th>
+                  <th class="col-vi">Tiếng Việt</th>
+                </tr>
+              </thead>
+              <tbody id="subModalBody"></tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(modal);
+      
+      $("subModalClose").addEventListener("click", function() {
+        modal.style.display = "none";
+      });
+      modal.addEventListener("click", function(e) {
+        if (e.target === modal) {
+          modal.style.display = "none";
+        }
+      });
+    }
+
+    $("subModalTitle").textContent = trackName;
+    modal.style.display = "flex";
+
+    // Read from embedded SUBTITLE_DATA (no fetch needed)
+    var subs = (typeof SUBTITLE_DATA !== "undefined" && SUBTITLE_DATA[srtPath]) ? SUBTITLE_DATA[srtPath] : null;
+    
+    if (!subs || subs.length === 0) {
+      $("subModalBody").innerHTML = '<tr><td colspan="4" style="text-align:center">Không có dữ liệu phụ đề.</td></tr>';
+      return;
+    }
+
+    var html = "";
+    subs.forEach(function(sub, i) {
+      html += "<tr>";
+      html += '<td class="col-index">' + (i + 1) + '</td>';
+      html += '<td class="col-time">' + sub.t + '</td>';
+      html += '<td class="col-en">' + sub.en + '</td>';
+      html += '<td class="col-vi">' + sub.vi + '</td>';
+      html += "</tr>";
+    });
+    $("subModalBody").innerHTML = html;
   }
 
   if (document.readyState === "loading") {

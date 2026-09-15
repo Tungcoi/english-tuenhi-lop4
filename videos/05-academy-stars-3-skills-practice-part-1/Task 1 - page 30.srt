@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+12.5. Listen and check.
+12.5. Nghe và kiểm tra.
+
+2
+00:00:06,000 --> 00:00:08,000
+Do you study maths?
+Bạn có học toán không?
+
+3
+00:00:09,000 --> 00:00:14,000
+1. Does she watch TV?
+1. Cô ấy có xem ti vi không?
+
+4
+00:00:15,000 --> 00:00:20,000
+2. Do they live in America?
+2. Họ có sống ở Mỹ không?
+
+5
+00:00:21,000 --> 00:00:27,000
+3. Do you get up at 7am?
+3. Bạn có thức dậy lúc 7 giờ sáng không?
+
+6
+00:00:27,000 --> 00:00:33,000
+4. Does Cathy read books?
+4. Cathy có đọc sách không?
+
+7
+00:00:34,000 --> 00:00:40,000
+5. Do you listen to music?
+5. Bạn có nghe nhạc không?
+
+8
+00:00:41,000 --> 00:00:47,000
+6. Do your parents eat fish?
+6. Bố mẹ bạn có ăn cá không?

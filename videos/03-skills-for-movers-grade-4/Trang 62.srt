@@ -1,0 +1,365 @@
+1
+00:00:00,000 --> 00:00:01,000
+One.
+Một.
+
+2
+00:00:01,000 --> 00:00:04,000
+Do you like dolphins?
+Bạn có thích cá heo không?
+
+3
+00:00:04,000 --> 00:00:05,000
+Dolphins?
+Cá heo á?
+
+4
+00:00:05,000 --> 00:00:07,000
+Yes, I do.
+Có, mình thích.
+
+5
+00:00:07,000 --> 00:00:12,000
+Can you see the dolphin under the people?
+Bạn có thấy con cá heo bên dưới mọi người không?
+
+6
+00:00:12,000 --> 00:00:15,000
+Under the people?
+Bên dưới mọi người á?
+
+7
+00:00:15,000 --> 00:00:16,000
+Yes.
+Đúng vậy.
+
+8
+00:00:16,000 --> 00:00:18,000
+Shall I colour it blue?
+Mình tô nó màu xanh dương nhé?
+
+9
+00:00:18,000 --> 00:00:19,000
+OK.
+Được.
+
+10
+00:00:30,000 --> 00:00:31,000
+Two.
+Hai.
+
+11
+00:00:31,000 --> 00:00:34,000
+Now, there are two giraffes.
+Bây giờ, có hai con hươu cao cổ.
+
+12
+00:00:34,000 --> 00:00:37,000
+Can you see the baby one?
+Bạn có thấy con nhỏ không?
+
+13
+00:00:37,000 --> 00:00:40,000
+The baby giraffe?
+Con hươu cao cổ con á?
+
+14
+00:00:40,000 --> 00:00:43,000
+I can see its head!
+Mình thấy đầu nó rồi!
+
+15
+00:00:43,000 --> 00:00:46,000
+Well, colour its head pink.
+Vậy, tô đầu nó màu hồng nhé.
+
+16
+00:00:46,000 --> 00:00:47,000
+OK then.
+Được thôi.
+
+17
+00:00:47,000 --> 00:00:48,000
+I'll do it.
+Mình sẽ làm.
+
+18
+00:00:48,000 --> 00:00:49,000
+OK.
+Được.
+
+19
+00:00:49,000 --> 00:00:50,000
+I'll do it.
+Mình sẽ làm.
+
+20
+00:00:50,000 --> 00:00:51,000
+OK.
+Được.
+
+21
+00:00:51,000 --> 00:00:52,000
+I'll do it.
+Mình sẽ làm.
+
+22
+00:00:52,000 --> 00:00:53,000
+OK.
+Được.
+
+23
+00:00:53,000 --> 00:00:54,000
+I'll do it.
+Mình sẽ làm.
+
+24
+00:00:54,000 --> 00:00:55,000
+OK.
+Được.
+
+25
+00:00:55,000 --> 00:00:56,000
+I'll do it.
+Mình sẽ làm.
+
+26
+00:00:56,000 --> 00:00:57,000
+OK.
+Được.
+
+27
+00:00:57,000 --> 00:00:58,000
+I'll do it.
+Mình sẽ làm.
+
+28
+00:00:58,000 --> 00:00:59,000
+Three.
+Ba.
+
+29
+00:00:59,000 --> 00:01:00,000
+OK, Paul.
+Được rồi, Paul.
+
+30
+00:01:00,000 --> 00:01:03,000
+Would you like to draw something for me now?
+Bạn có muốn vẽ gì cho mình bây giờ không?
+
+31
+00:01:03,000 --> 00:01:04,000
+Yes.
+Có.
+
+32
+00:01:04,000 --> 00:01:05,000
+Can you see the bird?
+Bạn có thấy con chim không?
+
+33
+00:01:05,000 --> 00:01:06,000
+Yes.
+Có.
+
+34
+00:01:06,000 --> 00:01:07,000
+Its mouth is open.
+Miệng nó đang mở.
+
+35
+00:01:07,000 --> 00:01:08,000
+That's right.
+Đúng rồi.
+
+36
+00:01:08,000 --> 00:01:09,000
+Well, can you draw a leaf?
+Vậy, bạn có thể vẽ một chiếc lá không?
+
+37
+00:01:09,000 --> 00:01:10,000
+A leaf?
+Một chiếc lá á?
+
+38
+00:01:10,000 --> 00:01:11,000
+A leaf?
+Một chiếc lá á?
+
+39
+00:01:11,000 --> 00:01:12,000
+A leaf?
+Một chiếc lá á?
+
+40
+00:01:12,000 --> 00:01:13,000
+A leaf?
+Một chiếc lá á?
+
+41
+00:01:13,000 --> 00:01:14,000
+A leaf?
+Một chiếc lá á?
+
+42
+00:01:14,000 --> 00:01:15,000
+A leaf?
+Một chiếc lá á?
+
+43
+00:01:15,000 --> 00:01:16,000
+A leaf?
+Một chiếc lá á?
+
+44
+00:01:16,000 --> 00:01:17,000
+A leaf?
+Một chiếc lá á?
+
+45
+00:01:17,000 --> 00:01:18,000
+A leaf?
+Một chiếc lá á?
+
+46
+00:01:18,000 --> 00:01:19,000
+A leaf?
+Một chiếc lá á?
+
+47
+00:01:19,000 --> 00:01:20,000
+A leaf?
+Một chiếc lá á?
+
+48
+00:01:20,000 --> 00:01:21,000
+A leaf?
+Một chiếc lá á?
+
+49
+00:01:21,000 --> 00:01:22,000
+A leaf?
+Một chiếc lá á?
+
+50
+00:01:22,000 --> 00:01:23,000
+A leaf?
+Một chiếc lá á?
+
+51
+00:01:23,000 --> 00:01:24,000
+A leaf?
+Một chiếc lá á?
+
+52
+00:01:24,000 --> 00:01:25,000
+A leaf?
+Một chiếc lá á?
+
+53
+00:01:25,000 --> 00:01:26,000
+A leaf?
+Một chiếc lá á?
+
+54
+00:01:26,000 --> 00:01:27,000
+A leaf?
+Một chiếc lá á?
+
+55
+00:01:27,000 --> 00:01:30,000
+Now, could you draw a leaf in the bird's mouth?
+Bây giờ, bạn có thể vẽ một chiếc lá trong miệng con chim không?
+
+56
+00:01:30,000 --> 00:01:35,000
+A leaf?
+Một chiếc lá á?
+
+57
+00:01:35,000 --> 00:01:46,000
+A leaf?
+Một chiếc lá á?
+
+58
+00:01:46,000 --> 00:01:51,000
+Yes.
+Đúng vậy.
+
+59
+00:01:51,000 --> 00:01:52,000
+Four.
+Bốn.
+
+60
+00:01:52,000 --> 00:01:53,000
+Now, there's a man in the boat?
+Bây giờ, có một người đàn ông trên thuyền?
+
+61
+00:01:53,000 --> 00:01:56,000
+Yes, he's got a hat on.
+Vâng, ông ấy đội mũ.
+
+62
+00:01:56,000 --> 00:01:57,599
+Shall I colour it?
+Mình tô màu nhé?
+
+63
+00:01:57,599 --> 00:02:02,599
+Yes, please. Would you like to colour his hat yellow?
+Vâng, được. Bạn có muốn tô mũ ông ấy màu vàng không?
+
+64
+00:02:03,400 --> 00:02:04,400
+OK.
+Được.
+
+65
+00:02:21,099 --> 00:02:23,900
+Can you see some fish, Paul?
+Bạn có thấy mấy con cá không, Paul?
+
+66
+00:02:24,700 --> 00:02:26,700
+Yes, there are two.
+Có, có hai con.
+
+67
+00:02:27,500 --> 00:02:31,700
+Well, one of the fish is above the elephant's head.
+À, một con cá ở phía trên đầu con voi.
+
+68
+00:02:32,500 --> 00:02:34,500
+Above the elephant's head?
+Phía trên đầu con voi á?
+
+69
+00:02:35,200 --> 00:02:37,300
+Oh yes, I see it.
+Ồ đúng rồi, mình thấy rồi.
+
+70
+00:02:38,000 --> 00:02:39,700
+Can I colour it orange?
+Mình tô nó màu cam được không?
+
+71
+00:02:40,000 --> 00:02:42,300
+Yes, that's a good colour.
+Được, đó là màu đẹp đấy.
+
+72
+00:02:53,900 --> 00:02:56,700
+Now listen to part 5 again.
+Bây giờ hãy nghe lại phần 5.
+
+73
+00:02:59,300 --> 00:03:02,700
+That is the end of Movers Listening Test 1.
+Đó là phần kết thúc của Bài nghe Movers số 1.
+

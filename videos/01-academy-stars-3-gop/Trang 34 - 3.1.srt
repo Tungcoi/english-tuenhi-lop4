@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,819
+Track 3.1 Unit 3
+Bài 3.1 Bài 3
+
+2
+00:00:02,819 --> 00:00:05,339
+Lesson 1 Activity 1
+Tiết 1 Hoạt động 1
+
+3
+00:00:05,459 --> 00:00:08,199
+Listen, point and say
+Nghe, chỉ và nói

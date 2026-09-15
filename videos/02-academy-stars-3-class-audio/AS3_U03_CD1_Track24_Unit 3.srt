@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:06,000
+cafe, train station
+quán cà phê, ga tàu
+
+2
+00:00:06,000 --> 00:00:11,000
+cinema
+rạp chiếu phim
+
+3
+00:00:11,000 --> 00:00:17,000
+cinema, bus stop
+rạp chiếu phim, trạm xe buýt
+
+4
+00:00:17,000 --> 00:00:23,000
+shopping centre
+trung tâm mua sắm
+
+5
+00:00:23,000 --> 00:00:26,000
+now you
+bây giờ đến bạn
+
+6
+00:00:26,000 --> 00:00:35,000
+1. shopping centre, swimming pool
+1. trung tâm mua sắm, bể bơi
+
+7
+00:00:35,000 --> 00:00:45,000
+2. library, hospital
+2. thư viện, bệnh viện
+
+8
+00:00:45,000 --> 00:00:55,000
+3. hospital, supermarket
+3. bệnh viện, siêu thị
+
+9
+00:00:55,000 --> 00:01:05,000
+4. bank, café
+4. ngân hàng, quán cà phê
+
+10
+00:01:05,000 --> 00:01:15,000
+5. train station, cinema
+5. ga tàu, rạp chiếu phim

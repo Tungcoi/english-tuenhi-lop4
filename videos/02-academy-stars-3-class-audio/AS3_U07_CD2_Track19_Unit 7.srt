@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,000
+Storytime
+Giờ kể chuyện
+
+2
+00:00:30,000 --> 00:00:36,000
+Storytime is fun, we love reading, let's read, everyone!
+Giờ kể chuyện thật vui, chúng ta yêu đọc sách, hãy đọc nào, mọi người ơi!
+
+3
+00:00:39,000 --> 00:00:44,000
+About a lad in, who saw an old man, and the old man said,
+Về một chàng trai, người đã thấy một ông lão, và ông lão nói,
+
+4
+00:00:44,000 --> 00:00:46,000
+I've got a plan!
+Ta có một kế hoạch!
+
+5
+00:00:46,000 --> 00:00:54,000
+We love reading, Storytime is fun, we love reading, let's read, everyone!
+Chúng ta yêu đọc sách, Giờ kể chuyện thật vui, chúng ta yêu đọc sách, hãy đọc nào, mọi người ơi!

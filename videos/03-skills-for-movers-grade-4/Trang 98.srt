@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:01,000
+One.
+Một.
+
+2
+00:00:02,600 --> 00:00:06,000
+Look at the pandas. They're having a drink.
+Nhìn những con gấu trúc kìa. Chúng đang uống nước.
+
+3
+00:00:06,200 --> 00:00:09,800
+Yes. Well, you see the big panda?
+Vâng. Vậy, bạn thấy con gấu trúc lớn không?
+
+4
+00:00:09,900 --> 00:00:10,900
+Yes.
+Có.
+
+5
+00:00:11,200 --> 00:00:14,000
+Can you colour her cup yellow?
+Bạn có thể tô cốc của nó màu vàng không?
+
+6
+00:00:14,599 --> 00:00:15,599
+OK.
+Được.
+
+7
+00:00:19,300 --> 00:00:20,300
+That looks nice.
+Trông đẹp đấy.
+
+8
+00:00:30,000 --> 00:00:31,000
+Two.
+Hai.
+
+9
+00:00:33,000 --> 00:00:36,000
+Now, can you draw something for me?
+Bây giờ, bạn có thể vẽ gì cho mình không?
+
+10
+00:00:36,100 --> 00:00:38,000
+OK. What?
+Được. Vẽ gì?
+
+11
+00:00:38,100 --> 00:00:43,000
+Well, can you see the star by the owl?
+Vậy, bạn có thấy ngôi sao bên cạnh con cú không?
+
+12
+00:00:43,100 --> 00:00:44,100
+Yes.
+Có.
+
+13
+00:00:45,000 --> 00:00:50,000
+Well, draw another star above the baby panda.
+Vậy, vẽ một ngôi sao khác phía trên con gấu trúc con.
+
+14
+00:00:51,000 --> 00:00:53,000
+Above the baby panda?
+Phía trên con gấu trúc con á?
+
+15
+00:00:53,100 --> 00:00:54,100
+Yes.
+Đúng vậy.
+
+16
+00:00:54,100 --> 00:00:55,100
+There.
+Xong rồi.
+
+17
+00:01:10,099 --> 00:01:11,099
+Three.
+Ba.
+
+18
+00:01:12,099 --> 00:01:17,099
+Now, Pat, can you see the fish in the small waterfall?
+Bây giờ, Pat, bạn có thấy con cá ở thác nước nhỏ không?
+
+19
+00:01:17,200 --> 00:01:18,200
+Yes.
+Có.
+
+20
+00:01:18,200 --> 00:01:23,200
+Now, Pat, can you see the fish in the small waterfall?
+Bây giờ, Pat, bạn có thấy con cá ở thác nước nhỏ không?
+
+21
+00:01:23,299 --> 00:01:27,200
+The small waterfall. Yes.
+Thác nước nhỏ. Có.
+
+22
+00:01:27,299 --> 00:01:30,200
+Can you colour it green?
+Bạn tô nó màu xanh lá được không?
+
+23
+00:01:30,299 --> 00:01:31,299
+OK then.
+Được thôi.
+
+24
+00:01:35,200 --> 00:01:37,200
+It looks nice.
+Trông đẹp đấy.
+
+25
+00:01:48,200 --> 00:01:49,200
+Four.
+Bốn.
+
+26
+00:01:50,200 --> 00:01:56,200
+And there's a bat next to the moon. Can I colour it now?
+Và có một con dơi bên cạnh mặt trăng. Mình tô nó bây giờ được không?
+
+27
+00:01:56,299 --> 00:01:58,200
+Yes. OK.
+Được. OK.
+
+28
+00:01:58,299 --> 00:02:01,200
+Shall I colour it black?
+Mình tô nó màu đen nhé?
+
+29
+00:02:01,299 --> 00:02:05,200
+OK. That's a good colour for a bat.
+Được. Đó là màu đẹp cho con dơi.
+
+30
+00:02:05,300 --> 00:02:06,300
+Yes.
+Vâng.
+
+31
+00:02:07,200 --> 00:02:08,199
+Four.
+Bốn.
+
+32
+00:02:08,300 --> 00:02:16,199
+And there's a bat next to the moon. Can I colour it now?
+Và có một con dơi bên cạnh mặt trăng. Mình tô nó bây giờ được không?
+
+33
+00:02:16,199 --> 00:02:17,199
+Five.
+Năm.
+
+34
+00:02:18,199 --> 00:02:21,199
+Now, you see the girls?
+Bây giờ, bạn thấy các cô bé không?
+
+35
+00:02:21,299 --> 00:02:22,299
+Yes.
+Có.
+
+36
+00:02:22,399 --> 00:02:26,199
+Well, one girl is looking at the sharks.
+À, một cô bé đang nhìn cá mập.
+
+37
+00:02:26,299 --> 00:02:28,199
+Yes. She's pointing to them.
+Vâng. Bạn ấy đang chỉ vào chúng.
+
+38
+00:02:28,299 --> 00:02:32,199
+That's right. Well, colour her hair brown.
+Đúng rồi. Vậy, tô tóc bạn ấy màu nâu.
+
+39
+00:02:32,299 --> 00:02:33,299
+OK.
+Được.
+
+40
+00:02:35,199 --> 00:02:36,199
+Do you like it?
+Bạn thích không?
+
+41
+00:02:36,299 --> 00:02:37,299
+Yes.
+Có.
+
+42
+00:02:37,399 --> 00:02:38,399
+OK.
+Được.
+
+43
+00:02:39,199 --> 00:02:44,199
+Now, Pat, can you colour the baby panda?
+Bây giờ, Pat, bạn có thể tô màu con gấu trúc con không?
+
+44
+00:02:44,199 --> 00:02:45,199
+Do you like it?
+Bạn thích không?
+
+45
+00:02:45,299 --> 00:02:49,199
+Yes. It's very good, Pat. Well done.
+Có. Rất giỏi, Pat. Làm tốt lắm.
+
+46
+00:03:04,199 --> 00:03:06,199
+Now listen to part five again.
+Bây giờ hãy nghe lại phần năm.
+
+47
+00:03:09,199 --> 00:03:12,199
+That is the end of Movers Listening Test Three.
+Đó là phần kết thúc của Bài nghe Movers số Ba.
+
+48
+00:03:14,199 --> 00:03:16,199
+Thank you for watching.
+Cảm ơn bạn đã xem.
+

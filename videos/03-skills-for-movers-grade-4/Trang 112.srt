@@ -1,0 +1,165 @@
+1
+00:00:00,000 --> 00:00:01,000
+One.
+Một.
+
+2
+00:00:02,000 --> 00:00:04,000
+How many words shall I write?
+Con phải viết bao nhiêu từ?
+
+3
+00:00:05,000 --> 00:00:08,000
+Oh, a hundred words.
+Ồ, một trăm từ.
+
+4
+00:00:08,000 --> 00:00:10,000
+Oh, that's a lot.
+Ồ, nhiều quá.
+
+5
+00:00:11,000 --> 00:00:14,000
+OK then, eighty words. Is that OK?
+Được rồi, tám mươi từ vậy. Được không?
+
+6
+00:00:15,000 --> 00:00:17,000
+Yes, so, eighty words.
+Vâng, vậy, tám mươi từ.
+
+7
+00:00:25,000 --> 00:00:26,000
+Two.
+Hai.
+
+8
+00:00:27,000 --> 00:00:29,000
+So, what shall I write about?
+Vậy, con nên viết về gì ạ?
+
+9
+00:00:30,000 --> 00:00:36,000
+Well, you can write about a great party you went to, or...
+À, con có thể viết về một bữa tiệc tuyệt vời con đã đi, hoặc...
+
+10
+00:00:36,000 --> 00:00:39,000
+Or, can I write about my very best holiday?
+Hoặc, con có thể viết về kỳ nghỉ tuyệt vời nhất của con không?
+
+11
+00:00:39,000 --> 00:00:41,000
+Oh yes, OK then.
+Ồ được, vậy đi.
+
+12
+00:00:49,000 --> 00:00:50,000
+Three.
+Ba.
+
+13
+00:00:51,000 --> 00:00:56,000
+Now then, Vicki, you need to give me your homework on Friday.
+Bây giờ, Vicki, con cần nộp bài tập về nhà cho thầy vào thứ Sáu.
+
+14
+00:00:56,000 --> 00:00:58,000
+But that's today.
+Nhưng hôm nay là thứ Sáu rồi.
+
+15
+00:00:58,000 --> 00:01:06,000
+Oh yes, sorry. Well, you can do it at the weekend and give it to me after that.
+Ồ đúng rồi, xin lỗi. À, con có thể làm vào cuối tuần và nộp cho thầy sau đó.
+
+16
+00:01:06,000 --> 00:01:10,000
+So, I give it to you after the weekend?
+Vậy, con nộp cho thầy sau cuối tuần ạ?
+
+17
+00:01:10,000 --> 00:01:12,000
+Yes, that's right.
+Đúng vậy.
+
+18
+00:01:19,000 --> 00:01:20,000
+Four.
+Bốn.
+
+19
+00:01:21,000 --> 00:01:22,000
+And Vicki?
+Và Vicki?
+
+20
+00:01:22,000 --> 00:01:23,000
+Yes?
+Dạ?
+
+21
+00:01:23,000 --> 00:01:26,000
+Don't forget to put your name at the top.
+Đừng quên viết tên con ở trên cùng.
+
+22
+00:01:26,000 --> 00:01:28,000
+Oh, and my name.
+Ồ, và tên con.
+
+23
+00:01:28,000 --> 00:01:34,000
+Mr Mason, just one more thing. How do you spell your name?
+Thầy Mason, chỉ thêm một điều nữa. Thầy đánh vần tên thầy thế nào ạ?
+
+24
+00:01:34,000 --> 00:01:44,000
+Well, Mr and then M-A-S-O-N. OK Vicki?
+À, Mr rồi M-A-S-O-N. Được chưa Vicki?
+
+25
+00:01:44,000 --> 00:01:46,000
+Yes, thank you.
+Dạ, cảm ơn thầy.
+
+26
+00:01:54,000 --> 00:01:55,000
+Five.
+Năm.
+
+27
+00:01:56,000 --> 00:02:01,000
+Oh, and you must learn what we did in the lesson yesterday.
+Ồ, và con phải học bài đã học hôm qua.
+
+28
+00:02:01,000 --> 00:02:04,000
+What was that?
+Bài gì ạ?
+
+29
+00:02:04,000 --> 00:02:07,000
+You know, the lesson about animals.
+Con biết mà, bài học về động vật.
+
+30
+00:02:07,000 --> 00:02:12,000
+So, I've got to read what we did yesterday about animals?
+Vậy, con phải đọc lại bài hôm qua về động vật ạ?
+
+31
+00:02:12,000 --> 00:02:15,000
+Yes, for the test on Monday.
+Đúng vậy, cho bài kiểm tra thứ Hai.
+
+32
+00:02:22,000 --> 00:02:25,000
+Now listen to part two again.
+Bây giờ hãy nghe lại phần hai.
+
+33
+00:02:26,000 --> 00:02:29,000
+That is the end of part two.
+Đó là phần kết thúc của phần hai.
+

@@ -1,0 +1,114 @@
+1
+00:00:00,000 --> 00:00:02,000
+14.5
+14.5
+
+2
+00:00:03,879 --> 00:00:06,879
+Hi Tim. How was your holiday?
+Chào Tim. Kỳ nghỉ của bạn thế nào?
+
+3
+00:00:06,879 --> 00:00:09,880
+Oh, it was fantastic, thanks.
+Ồ, tuyệt vời lắm, cảm ơn.
+
+4
+00:00:09,880 --> 00:00:12,880
+The hotel was great.
+Khách sạn rất tuyệt.
+
+5
+00:00:12,880 --> 00:00:15,880
+There was a big swimming pool
+Có một hồ bơi lớn
+
+6
+00:00:15,880 --> 00:00:18,879
+and there was a table tennis table too.
+và cũng có một bàn bóng bàn nữa.
+
+7
+00:00:18,879 --> 00:00:23,879
+Oh, that was lucky. You like table tennis.
+Ồ, may mắn thật. Bạn thích bóng bàn mà.
+
+8
+00:00:23,879 --> 00:00:26,879
+Was there a computer room?
+Có phòng máy tính không?
+
+9
+00:00:27,759 --> 00:00:29,759
+No, there wasn't.
+Không, không có.
+
+10
+00:00:29,759 --> 00:00:31,759
+But our room was nice.
+Nhưng phòng của chúng tôi rất đẹp.
+
+11
+00:00:31,759 --> 00:00:34,759
+There was a big TV in it.
+Có một chiếc ti vi lớn trong phòng.
+
+12
+00:00:34,759 --> 00:00:37,759
+Nice. And was there a good beach?
+Tuyệt. Và có bãi biển đẹp không?
+
+13
+00:00:37,759 --> 00:00:40,759
+Well, no, there wasn't.
+À, không, không có.
+
+14
+00:00:40,759 --> 00:00:42,759
+We weren't near the sea.
+Chúng tôi không ở gần biển.
+
+15
+00:00:42,759 --> 00:00:45,759
+There were mountains.
+Có những ngọn núi.
+
+16
+00:00:45,759 --> 00:00:48,759
+It was a very small place
+Đó là một nơi rất nhỏ
+
+17
+00:00:48,759 --> 00:00:50,759
+and there weren't any shops.
+và không có cửa hàng nào.
+
+18
+00:00:50,759 --> 00:00:53,759
+Wow! It was a small place.
+Ồ! Đó là một nơi nhỏ.
+
+19
+00:00:53,759 --> 00:00:56,759
+Yes. There were some cafes
+Vâng. Có vài quán cà phê
+
+20
+00:00:57,640 --> 00:00:59,640
+and there was a restaurant
+và có một nhà hàng
+
+21
+00:00:59,640 --> 00:01:04,640
+and oh yes, there was a small museum.
+và ồ vâng, có một bảo tàng nhỏ.
+
+22
+00:01:04,640 --> 00:01:06,640
+But that's it.
+Nhưng chỉ có vậy thôi.
+
+23
+00:01:06,640 --> 00:01:09,640
+It was a bit boring really.
+Thật ra hơi chán.

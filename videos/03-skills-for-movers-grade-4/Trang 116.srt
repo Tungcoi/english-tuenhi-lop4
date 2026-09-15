@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:01,000
+One.
+Một.
+
+2
+00:00:01,000 --> 00:00:04,400
+Now, can you see the robots?
+Bây giờ, bạn có thấy các rô-bốt không?
+
+3
+00:00:04,400 --> 00:00:09,000
+Yes, they're running because they want to catch the bus.
+Có, chúng đang chạy vì muốn bắt xe buýt.
+
+4
+00:00:09,000 --> 00:00:13,960
+Yes, well one robot's got his hands up.
+Vâng, à một rô-bốt đang giơ tay lên.
+
+5
+00:00:13,960 --> 00:00:16,280
+You mean the one with the flowers?
+Ý bạn là cái rô-bốt có hoa?
+
+6
+00:00:16,280 --> 00:00:17,679
+Yes.
+Đúng vậy.
+
+7
+00:00:17,679 --> 00:00:20,519
+Can you colour his face purple?
+Bạn tô mặt nó màu tím được không?
+
+8
+00:00:20,519 --> 00:00:21,120
+Okay.
+Được.
+
+9
+00:00:30,000 --> 00:00:31,000
+Two.
+Hai.
+
+10
+00:00:31,000 --> 00:00:37,399
+Okay then, Sally, there are two women waiting for the bus.
+Được rồi, Sally, có hai người phụ nữ đang đợi xe buýt.
+
+11
+00:00:37,399 --> 00:00:40,399
+Yes, one of them's got a coat on.
+Vâng, một người mặc áo khoác.
+
+12
+00:00:40,399 --> 00:00:41,399
+That's right.
+Đúng rồi.
+
+13
+00:00:41,399 --> 00:00:45,000
+And she's got short, straight hair.
+Và cô ấy có tóc ngắn, thẳng.
+
+14
+00:00:45,000 --> 00:00:47,600
+Can I colour her hair brown?
+Mình tô tóc cô ấy màu nâu được không?
+
+15
+00:00:47,600 --> 00:00:50,000
+Yes, you do that.
+Được, bạn làm đi.
+
+16
+00:00:50,000 --> 00:00:52,000
+That looks good.
+Trông đẹp đấy.
+
+17
+00:00:52,039 --> 00:00:52,799
+Three.
+Ba.
+
+18
+00:00:52,799 --> 00:00:56,200
+Now, look at the bus.
+Bây giờ, nhìn xe buýt.
+
+19
+00:00:56,200 --> 00:00:57,200
+Yes.
+Vâng.
+
+20
+00:00:57,200 --> 00:01:01,000
+I'd like you to write something on the bus.
+Mình muốn bạn viết gì đó trên xe buýt.
+
+21
+00:01:01,000 --> 00:01:03,600
+I'm going to write that on the bus.
+Mình sẽ viết nó trên xe buýt.
+
+22
+00:01:03,600 --> 00:01:04,599
+Okay.
+Được.
+
+23
+00:01:04,599 --> 00:01:08,000
+And Sally, you'll write something on the bus?
+Và Sally, bạn sẽ viết gì đó trên xe buýt?
+
+24
+00:01:08,000 --> 00:01:09,099
+Yes.
+Vâng.
+
+25
+00:01:09,099 --> 00:01:11,400
+I'd like you to write something on the bus.
+Mình muốn bạn viết gì đó trên xe buýt.
+
+26
+00:01:11,400 --> 00:01:13,200
+What are you writing?
+Bạn đang viết gì?
+
+27
+00:01:13,200 --> 00:01:14,200
+On the bus.
+Trên xe buýt.
+
+28
+00:01:14,200 --> 00:01:16,000
+What are you writing?
+Bạn đang viết gì?
+
+29
+00:01:16,000 --> 00:01:18,400
+On the bus.
+Trên xe buýt.
+
+30
+00:01:18,400 --> 00:01:19,400
+Okay.
+Được.
+
+31
+00:01:19,400 --> 00:01:25,000
+like you to write something on the bus under the number 16.
+muốn bạn viết gì đó trên xe buýt dưới số 16.
+
+32
+00:01:25,000 --> 00:01:28,360
+So, what shall I write?
+Vậy, mình viết gì?
+
+33
+00:01:28,360 --> 00:01:30,600
+Write the word town.
+Viết từ town.
+
+34
+00:01:30,600 --> 00:01:38,120
+OK, so I'm writing the word town under the number 16.
+Được, vậy mình viết từ town dưới số 16.
+
+35
+00:01:38,120 --> 00:01:39,200
+Very good.
+Rất tốt.
+
+36
+00:01:49,400 --> 00:01:58,440
+And you see the cat?
+Và bạn thấy con mèo không?
+
+37
+00:01:58,440 --> 00:01:59,440
+Which cat?
+Con mèo nào?
+
+38
+00:01:59,440 --> 00:02:00,920
+There are two.
+Có hai con.
+
+39
+00:02:00,920 --> 00:02:04,840
+Oh, the sad one with its hands on its head.
+Ồ, con buồn với hai tay trên đầu.
+
+40
+00:02:04,840 --> 00:02:05,840
+Oh yes.
+Ồ đúng rồi.
+
+41
+00:02:05,840 --> 00:02:10,240
+Well, can you colour its tail pink?
+Vậy, bạn tô đuôi nó màu hồng được không?
+
+42
+00:02:10,240 --> 00:02:13,040
+That's a funny colour for a cat's tail.
+Đó là màu buồn cười cho đuôi mèo.
+
+43
+00:02:13,040 --> 00:02:15,599
+Oh, OK then.
+Ồ, được thôi.
+
+44
+00:02:15,599 --> 00:02:16,599
+There.
+Xong rồi.
+
+45
+00:02:16,599 --> 00:02:36,159
+And there are two girls.
+Và có hai cô bé.
+
+46
+00:02:36,159 --> 00:02:40,439
+Yes, but you see the girl who's standing in the rain?
+Vâng, nhưng bạn thấy cô bé đang đứng trong mưa không?
+
+47
+00:02:40,439 --> 00:02:45,680
+Yes, she's looking at the robots and telling them to be quick.
+Vâng, bạn ấy đang nhìn các rô-bốt và bảo chúng nhanh lên.
+
+48
+00:02:45,719 --> 00:02:47,520
+Yes, that's right.
+Đúng rồi.
+
+49
+00:02:47,520 --> 00:02:51,480
+Well, can you colour her skirt green?
+Vậy, bạn tô váy bạn ấy màu xanh lá được không?
+
+50
+00:02:51,480 --> 00:02:52,840
+OK.
+Được.
+
+51
+00:02:52,840 --> 00:02:54,040
+That's great.
+Tuyệt vời.
+

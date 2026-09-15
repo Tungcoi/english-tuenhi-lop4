@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:04,500
+1st January
+Ngày 1 tháng Giêng
+
+2
+00:00:04,700 --> 00:00:09,500
+2nd February
+Ngày 2 tháng Hai
+
+3
+00:00:09,700 --> 00:00:14,500
+3rd March
+Ngày 3 tháng Ba
+
+4
+00:00:14,700 --> 00:00:19,500
+4th April
+Ngày 4 tháng Tư
+
+5
+00:00:19,699 --> 00:00:24,500
+5th May
+Ngày 5 tháng Năm
+
+6
+00:00:24,500 --> 00:00:29,500
+6th June
+Ngày 6 tháng Sáu
+
+7
+00:00:29,699 --> 00:00:34,700
+7th July
+Ngày 7 tháng Bảy
+
+8
+00:00:34,899 --> 00:00:39,899
+8th August
+Ngày 8 tháng Tám
+
+9
+00:00:40,100 --> 00:00:45,100
+9th September
+Ngày 9 tháng Chín
+
+10
+00:00:45,299 --> 00:00:50,299
+10th October
+Ngày 10 tháng Mười
+
+11
+00:00:50,299 --> 00:00:55,299
+11th November
+Ngày 11 tháng Mười Một
+
+12
+00:00:55,500 --> 00:01:00,500
+12th December
+Ngày 12 tháng Mười Hai
+

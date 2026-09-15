@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:03,000
+Let's make some pizzas.
+Hãy làm pizza nào.
+
+2
+00:00:03,000 --> 00:00:06,000
+Okay, how much spinach is there?
+Được, có bao nhiêu rau chân vịt?
+
+3
+00:00:06,000 --> 00:00:12,000
+There's a lot. Here, some for you and some for me.
+Có rất nhiều. Đây, một ít cho bạn và một ít cho mình.
+
+4
+00:00:12,000 --> 00:00:14,000
+How much tuna is there?
+Có bao nhiêu cá ngừ?
+
+5
+00:00:14,000 --> 00:00:20,000
+There isn't much, but I don't like it. It's all for you.
+Không có nhiều, nhưng mình không thích. Tất cả cho bạn.
+
+6
+00:00:20,000 --> 00:00:22,000
+How many olives are there?
+Có bao nhiêu quả ô liu?
+
+7
+00:00:22,000 --> 00:00:27,000
+There are a lot. Some for you and some for me.
+Có rất nhiều. Một ít cho bạn và một ít cho mình.
+
+8
+00:00:27,000 --> 00:00:30,000
+Mmm, delicious!
+Mmm, ngon quá!

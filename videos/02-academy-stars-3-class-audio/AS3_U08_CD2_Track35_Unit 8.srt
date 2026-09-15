@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,000
+What did you do yesterday?
+Hôm qua bạn đã làm gì?
+
+2
+00:00:03,000 --> 00:00:05,000
+I went to the zoo.
+Mình đã đi sở thú.
+
+3
+00:00:05,000 --> 00:00:07,000
+Oh, lucky you!
+Ồ, bạn may mắn quá!
+
+4
+00:00:07,000 --> 00:00:09,000
+Were there any parrots?
+Có con vẹt nào không?
+
+5
+00:00:09,000 --> 00:00:11,000
+No, there weren't.
+Không, không có.
+
+6
+00:00:11,000 --> 00:00:13,000
+Were there any meerkats?
+Có con cầy meerkat nào không?
+
+7
+00:00:13,000 --> 00:00:15,000
+Yes, there were.
+Có, có đấy.
+
+8
+00:00:15,000 --> 00:00:18,000
+Was there a dolphin show?
+Có buổi biểu diễn cá heo không?
+
+9
+00:00:18,000 --> 00:00:20,000
+Yes, there was.
+Có, có đấy.
+
+10
+00:00:20,000 --> 00:00:22,000
+Were there any gorillas?
+Có con khỉ đột nào không?
+
+11
+00:00:22,000 --> 00:00:24,000
+No, there weren't.
+Không, không có.
+

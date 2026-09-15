@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:07,000
+1st January 2nd February
+Ngày 1 tháng Giêng, Ngày 2 tháng Hai
+
+2
+00:00:07,000 --> 00:00:12,000
+3rd March
+Ngày 3 tháng Ba
+
+3
+00:00:12,000 --> 00:00:19,000
+4th April 5th May
+Ngày 4 tháng Tư, Ngày 5 tháng Năm
+
+4
+00:00:19,000 --> 00:00:24,000
+6th June
+Ngày 6 tháng Sáu
+
+5
+00:00:24,000 --> 00:00:28,000
+Now you!
+Bây giờ đến bạn!
+
+6
+00:00:28,000 --> 00:00:33,000
+1st May 5th May
+Ngày 1 tháng Năm, Ngày 5 tháng Năm
+
+7
+00:00:33,000 --> 00:00:37,000
+6th June
+Ngày 6 tháng Sáu
+
+8
+00:00:37,000 --> 00:00:42,000
+2nd July 7th July
+Ngày 2 tháng Bảy, Ngày 7 tháng Bảy
+
+9
+00:00:42,000 --> 00:00:47,000
+8th August
+Ngày 8 tháng Tám
+
+10
+00:00:47,000 --> 00:00:52,000
+3rd August 8th August
+Ngày 3 tháng Tám, Ngày 8 tháng Tám
+
+11
+00:00:52,000 --> 00:00:57,000
+9th September
+Ngày 9 tháng Chín
+
+12
+00:00:57,000 --> 00:01:02,000
+4th September
+Ngày 4 tháng Chín
+
+13
+00:01:02,000 --> 00:01:07,000
+10th October
+Ngày 10 tháng Mười
+
+14
+00:01:07,000 --> 00:01:12,000
+5th November
+Ngày 5 tháng Mười Một
+
+15
+00:01:12,000 --> 00:01:17,000
+12th December
+Ngày 12 tháng Mười Hai
+

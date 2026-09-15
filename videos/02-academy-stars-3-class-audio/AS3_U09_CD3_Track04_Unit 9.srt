@@ -1,0 +1,345 @@
+1
+00:00:00,000 --> 00:00:03,000
+from Brown Park School
+từ Trường Brown Park
+
+2
+00:00:03,000 --> 00:00:07,000
+to Waver Tree School
+gửi Trường Waver Tree
+
+3
+00:00:08,000 --> 00:00:10,000
+Dear friends,
+Các bạn thân mến,
+
+4
+00:00:10,000 --> 00:00:15,000
+we're Class 3 of Brown Park School
+chúng mình là Lớp 3 Trường Brown Park
+
+5
+00:00:15,000 --> 00:00:18,000
+in New York, USA.
+ở New York, Mỹ.
+
+6
+00:00:18,000 --> 00:00:23,000
+Our school is in the city center,
+Trường mình ở trung tâm thành phố,
+
+7
+00:00:23,000 --> 00:00:26,000
+but it's got a playground.
+nhưng có sân chơi.
+
+8
+00:00:26,000 --> 00:00:31,000
+We're attaching a photo of our class.
+Chúng mình đính kèm ảnh lớp.
+
+9
+00:00:31,000 --> 00:00:36,000
+We don't have to wear a school uniform,
+Chúng mình không phải mặc đồng phục,
+
+10
+00:00:36,000 --> 00:00:43,000
+but for P.E. we have to wear a tracksuit and trainers.
+nhưng khi học Thể dục chúng mình phải mặc đồ thể thao và đi giày thể thao.
+
+11
+00:00:43,000 --> 00:00:47,000
+Do you wear a uniform?
+Các bạn có mặc đồng phục không?
+
+12
+00:00:47,000 --> 00:00:50,000
+We have lessons in English,
+Chúng mình học các môn Tiếng Anh,
+
+13
+00:00:50,000 --> 00:00:52,000
+Maths,
+Toán,
+
+14
+00:00:52,000 --> 00:00:53,000
+Science,
+Khoa học,
+
+15
+00:00:53,000 --> 00:00:55,000
+Social Studies,
+Xã hội,
+
+16
+00:00:55,000 --> 00:00:57,000
+Computer Studies,
+Tin học,
+
+17
+00:00:57,000 --> 00:00:58,000
+Art,
+Mỹ thuật,
+
+18
+00:00:58,000 --> 00:00:59,000
+Music,
+Âm nhạc,
+
+19
+00:00:59,000 --> 00:01:02,000
+and P.E.
+và Thể dục.
+
+20
+00:01:02,000 --> 00:01:05,000
+What lessons do you have?
+Các bạn học những môn gì?
+
+21
+00:01:05,000 --> 00:01:08,000
+Write back soon!
+Hãy viết thư lại sớm nhé!
+
+22
+00:01:08,000 --> 00:01:14,000
+Class 3, Brown Park School
+Lớp 3, Trường Brown Park
+
+23
+00:01:14,000 --> 00:01:18,000
+from Waver Tree School
+từ Trường Waver Tree
+
+24
+00:01:18,000 --> 00:01:23,000
+to Brown Park School
+gửi Trường Brown Park
+
+25
+00:01:23,000 --> 00:01:27,000
+Dear friends in New York,
+Các bạn thân mến ở New York,
+
+26
+00:01:27,000 --> 00:01:31,000
+thanks for your email and photo.
+cảm ơn email và ảnh của các bạn.
+
+27
+00:01:31,000 --> 00:01:36,000
+We're Class 3 of Waver Tree School
+Chúng mình là Lớp 3 Trường Waver Tree
+
+28
+00:01:36,000 --> 00:01:40,000
+in Sydney, Australia.
+ở Sydney, Úc.
+
+29
+00:01:40,000 --> 00:01:45,000
+Our school is next to a beach.
+Trường mình ở cạnh bãi biển.
+
+30
+00:01:45,000 --> 00:01:50,000
+We have the same lessons as you,
+Chúng mình học các môn giống các bạn,
+
+31
+00:01:50,000 --> 00:01:56,000
+but we have to wear a school uniform.
+nhưng chúng mình phải mặc đồng phục.
+
+32
+00:01:56,000 --> 00:01:58,000
+At our school,
+Ở trường mình,
+
+33
+00:01:58,000 --> 00:02:04,000
+we do P.E. four times a week.
+chúng mình học Thể dục bốn lần một tuần.
+
+34
+00:02:04,000 --> 00:02:09,000
+We play football and hockey.
+Chúng mình chơi bóng đá và khúc côn cầu.
+
+35
+00:02:09,000 --> 00:02:13,000
+We also do swimming and running.
+Chúng mình cũng bơi và chạy.
+
+36
+00:02:13,000 --> 00:02:17,000
+We're attaching a photo.
+Chúng mình đính kèm ảnh.
+
+37
+00:02:17,000 --> 00:02:21,000
+Do you play baseball?
+Các bạn có chơi bóng chày không?
+
+38
+00:02:21,000 --> 00:02:23,000
+What do you wear?
+Các bạn mặc gì?
+
+39
+00:02:23,000 --> 00:02:28,000
+What equipment do you use?
+Các bạn dùng dụng cụ gì?
+
+40
+00:02:28,000 --> 00:02:31,000
+Please reply soon!
+Hãy trả lời sớm nhé!
+
+41
+00:02:31,000 --> 00:02:37,000
+Class 3, Waver Tree School
+Lớp 3, Trường Waver Tree
+
+42
+00:02:37,000 --> 00:02:41,000
+from Brown Park School
+từ Trường Brown Park
+
+43
+00:02:41,000 --> 00:02:46,000
+to Waver Tree School
+gửi Trường Waver Tree
+
+44
+00:02:46,000 --> 00:02:50,000
+Hello, friends in Sydney!
+Xin chào, các bạn ở Sydney!
+
+45
+00:02:50,000 --> 00:02:54,000
+Thanks for your email and the photo.
+Cảm ơn email và ảnh của các bạn.
+
+46
+00:02:54,000 --> 00:02:58,000
+Yes, we play baseball.
+Có, chúng mình chơi bóng chày.
+
+47
+00:02:58,000 --> 00:03:05,000
+We wear black trousers and a white and red T-shirt.
+Chúng mình mặc quần đen và áo phông trắng đỏ.
+
+48
+00:03:05,000 --> 00:03:08,000
+See photo below.
+Xem ảnh bên dưới.
+
+49
+00:03:08,000 --> 00:03:16,000
+We play with a long thin bat and a small hard ball.
+Chúng mình chơi với một cây gậy dài mỏng và một quả bóng nhỏ cứng.
+
+50
+00:03:16,000 --> 00:03:21,000
+Some players also wear a big glove,
+Một số cầu thủ cũng đeo găng tay lớn,
+
+51
+00:03:21,000 --> 00:03:26,000
+and some have to wear a helmet.
+và một số phải đội mũ bảo hiểm.
+
+52
+00:03:26,000 --> 00:03:31,000
+There are two teams of nine players.
+Có hai đội, mỗi đội chín cầu thủ.
+
+53
+00:03:31,000 --> 00:03:38,000
+On Saturdays, we play matches against other schools.
+Vào thứ Bảy, chúng mình thi đấu với các trường khác.
+
+54
+00:03:38,000 --> 00:03:42,000
+Our team is the best!
+Đội mình giỏi nhất!
+
+55
+00:03:42,000 --> 00:03:47,000
+Do you have sports competitions at your school?
+Trường các bạn có cuộc thi thể thao không?
+
+56
+00:03:47,000 --> 00:03:50,000
+Bye for now!
+Tạm biệt nhé!
+
+57
+00:03:50,000 --> 00:03:55,000
+Class 3, Brown Park School
+Lớp 3, Trường Brown Park
+
+58
+00:03:55,000 --> 00:03:59,000
+from Waver Tree School
+từ Trường Waver Tree
+
+59
+00:03:59,000 --> 00:04:04,000
+to Brown Park School
+gửi Trường Brown Park
+
+60
+00:04:04,000 --> 00:04:07,000
+Hi, Class 3!
+Xin chào, Lớp 3!
+
+61
+00:04:07,000 --> 00:04:12,000
+Thanks for your email and the photo.
+Cảm ơn email và ảnh của các bạn.
+
+62
+00:04:12,000 --> 00:04:18,000
+Yes, we have sports competitions too.
+Có, chúng mình cũng có cuộc thi thể thao.
+
+63
+00:04:18,000 --> 00:04:24,000
+This week, there's a swimming competition at our school.
+Tuần này, trường mình có cuộc thi bơi.
+
+64
+00:04:24,000 --> 00:04:28,000
+There are medals for the winners.
+Có huy chương cho người thắng cuộc.
+
+65
+00:04:28,000 --> 00:04:32,000
+We have to bring a swimming costume,
+Chúng mình phải mang đồ bơi,
+
+66
+00:04:32,000 --> 00:04:39,000
+a swimming cap, goggles, flip-flops and a towel.
+mũ bơi, kính bơi, dép xỏ ngón và khăn tắm.
+
+67
+00:04:39,000 --> 00:04:44,000
+And we have to wear a tracksuit too.
+Và chúng mình cũng phải mặc đồ thể thao.
+
+68
+00:04:44,000 --> 00:04:47,000
+Bye from Sydney!
+Tạm biệt từ Sydney!
+
+69
+00:04:47,000 --> 00:04:52,000
+Class 3, Waver Tree School
+Lớp 3, Trường Waver Tree
+

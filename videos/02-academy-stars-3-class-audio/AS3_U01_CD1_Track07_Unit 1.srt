@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:19,000
+Three clean sheep asleep in a heap.
+Ba con cừu sạch sẽ ngủ chồng lên nhau.
+
+2
+00:00:19,000 --> 00:00:23,000
+Now say the missing words.
+Bây giờ nói từ còn thiếu.
+
+3
+00:00:23,000 --> 00:00:28,000
+Three sheep asleep in a heap.
+Ba con cừu ngủ chồng lên nhau.
+
+4
+00:00:28,000 --> 00:00:31,000
+clean
+sạch sẽ
+
+5
+00:00:31,000 --> 00:00:47,000
+Three clean sheep asleep in a heap.
+Ba con cừu sạch sẽ ngủ chồng lên nhau.
+
+6
+00:00:47,000 --> 00:00:51,000
+three
+ba
+
+7
+00:00:51,000 --> 00:00:57,000
+Three clean sheep in a heap.
+Ba con cừu sạch sẽ chồng lên nhau.
+
+8
+00:00:57,000 --> 00:01:00,000
+asleep
+ngủ

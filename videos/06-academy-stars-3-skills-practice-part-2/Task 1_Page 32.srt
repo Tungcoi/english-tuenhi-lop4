@@ -1,0 +1,444 @@
+1
+00:00:00,000 --> 00:00:01,000
+Test 1
+Bài kiểm tra 1
+
+2
+00:00:01,940 --> 00:00:02,940
+Listening
+Phần nghe
+
+3
+00:00:03,720 --> 00:00:04,719
+Part 1
+Phần 1
+
+4
+00:00:06,620 --> 00:00:08,220
+Look at Part 1.
+Hãy nhìn vào Phần 1.
+
+5
+00:00:09,240 --> 00:00:10,560
+Look at the picture.
+Nhìn vào bức tranh.
+
+6
+00:00:11,540 --> 00:00:13,220
+Listen and look.
+Nghe và nhìn.
+
+7
+00:00:14,320 --> 00:00:16,120
+There is one example.
+Có một ví dụ.
+
+8
+00:00:19,080 --> 00:00:22,240
+Hello! What are you all doing out here?
+Xin chào! Mọi người đang làm gì ở ngoài này thế?
+
+9
+00:00:23,019 --> 00:00:24,280
+We're playing.
+Chúng cháu đang chơi ạ.
+
+10
+00:00:25,000 --> 00:00:27,160
+Are these your brothers and sisters?
+Đây là các anh chị em của cháu à?
+
+11
+00:00:27,740 --> 00:00:28,359
+No.
+Dạ không.
+
+12
+00:00:29,160 --> 00:00:30,480
+Some are friends.
+Một số là bạn bè ạ.
+
+13
+00:00:31,199 --> 00:00:32,399
+Jim's my brother.
+Jim là anh/em trai cháu.
+
+14
+00:00:33,320 --> 00:00:36,000
+Is he the boy who's riding a bike?
+Có phải cậu bé đang đạp xe không?
+
+15
+00:00:36,859 --> 00:00:39,960
+Yes. He loves his bike.
+Vâng ạ. Cậu ấy rất thích chiếc xe đạp của mình.
+
+16
+00:00:43,899 --> 00:00:45,420
+Can you see the line?
+Cháu có nhìn thấy đường nối không?
+
+17
+00:00:46,179 --> 00:00:47,879
+This is an example.
+Đây là một ví dụ.
+
+18
+00:00:49,399 --> 00:00:52,679
+Now you listen and draw lines.
+Bây giờ các cháu hãy nghe và vẽ đường nối nhé.
+
+19
+00:00:54,420 --> 00:00:55,060
+1
+1
+
+20
+00:00:56,060 --> 00:00:59,060
+Who's the girl in the red dress?
+Cô bé mặc váy đỏ là ai vậy?
+
+21
+00:00:59,980 --> 00:01:01,660
+The one under the tree?
+Người ở dưới gốc cây ạ?
+
+22
+00:01:02,100 --> 00:01:02,780
+Yes.
+Đúng rồi.
+
+23
+00:01:03,859 --> 00:01:05,700
+That's my friend, Vicki.
+Đó là bạn cháu, Vicki.
+
+24
+00:01:06,379 --> 00:01:08,260
+I think her dress is nice.
+Chú nghĩ chiếc váy của bạn ấy rất đẹp.
+
+25
+00:01:14,300 --> 00:01:14,900
+2
+2
+
+26
+00:01:16,900 --> 00:01:18,300
+Look at my sister.
+Hãy nhìn em gái cháu kìa.
+
+27
+00:01:19,540 --> 00:01:20,700
+What's she doing?
+Con bé đang làm gì thế?
+
+28
+00:01:21,980 --> 00:01:23,460
+She's kicking a ball.
+Con bé đang đá bóng.
+
+29
+00:01:24,459 --> 00:01:25,579
+What's her name?
+Tên của con bé là gì?
+
+30
+00:01:26,699 --> 00:01:27,979
+It's Daisy.
+Là Daisy ạ.
+
+31
+00:01:28,819 --> 00:01:30,339
+She's good at kicking.
+Con bé đá bóng giỏi đấy.
+
+32
+00:01:36,299 --> 00:01:36,939
+3
+3
+
+33
+00:01:38,819 --> 00:01:40,500
+That's my baby sister.
+Đó là em gái út của cháu.
+
+34
+00:01:41,299 --> 00:01:42,500
+Is she sleeping?
+Con bé đang ngủ à?
+
+35
+00:01:43,099 --> 00:01:46,500
+Yes. Grandpa is sitting next to her.
+Vâng ạ. Ông đang ngồi bên cạnh con bé.
+
+36
+00:01:47,139 --> 00:01:48,259
+What's her name?
+Tên của con bé là gì?
+
+37
+00:01:48,899 --> 00:01:49,659
+Sally.
+Sally ạ.
+
+38
+00:01:53,459 --> 00:01:54,140
+4
+4
+
+39
+00:01:56,140 --> 00:01:58,299
+Who's the boy that's sitting down?
+Cậu bé đang ngồi kia là ai vậy?
+
+40
+00:01:58,780 --> 00:01:59,819
+Which one?
+Cậu bé nào ạ?
+
+41
+00:02:00,619 --> 00:02:02,539
+The one who's reading a book.
+Người đang đọc sách ấy.
+
+42
+00:02:03,539 --> 00:02:06,780
+Oh, that's my friend, Nick.
+Ồ, đó là bạn cháu, Nick.
+
+43
+00:02:07,379 --> 00:02:09,099
+He's always reading.
+Cậu ấy lúc nào cũng đọc sách.
+
+44
+00:02:15,219 --> 00:02:15,819
+5
+5
+
+45
+00:02:17,740 --> 00:02:20,340
+Is that your brother who's painting a picture?
+Người đang vẽ tranh có phải là anh trai cháu không?
+
+46
+00:02:20,859 --> 00:02:21,419
+No.
+Dạ không.
+
+47
+00:02:21,419 --> 00:02:23,139
+He's my friend's brother.
+Cậu ấy là anh trai của bạn cháu.
+
+48
+00:02:23,859 --> 00:02:25,139
+What's his name?
+Tên cậu ấy là gì?
+
+49
+00:02:26,139 --> 00:02:27,139
+It's Ben.
+Là Ben ạ.
+
+50
+00:02:27,859 --> 00:02:29,579
+Do you like his picture?
+Chú có thích bức tranh của cậu ấy không?
+
+51
+00:02:30,060 --> 00:02:31,939
+Yes. It's very good.
+Có. Nó rất đẹp.
+
+52
+00:02:38,139 --> 00:02:40,179
+Now listen to part 1 again.
+Bây giờ hãy nghe lại Phần 1.
+
+53
+00:02:42,099 --> 00:02:42,579
+1
+1
+
+54
+00:02:44,619 --> 00:02:46,819
+Who's the girl in the red dress?
+Cô bé mặc váy đỏ là ai vậy?
+
+55
+00:02:47,579 --> 00:02:49,379
+The one under the tree.
+Người ở dưới gốc cây.
+
+56
+00:02:50,340 --> 00:02:52,180
+The one under the tree?
+Người ở dưới gốc cây à?
+
+57
+00:02:52,579 --> 00:02:53,340
+Yes.
+Đúng rồi.
+
+58
+00:02:54,340 --> 00:02:56,259
+That's my friend, Vicki.
+Đó là bạn cháu, Vicki.
+
+59
+00:02:56,859 --> 00:02:58,780
+I think her dress is nice.
+Chú nghĩ chiếc váy của bạn ấy rất đẹp.
+
+60
+00:03:04,780 --> 00:03:05,419
+2
+2
+
+61
+00:03:07,379 --> 00:03:08,819
+Look at my sister.
+Hãy nhìn em gái cháu kìa.
+
+62
+00:03:10,019 --> 00:03:11,219
+What's she doing?
+Con bé đang làm gì thế?
+
+63
+00:03:12,460 --> 00:03:14,019
+She's kicking a ball.
+Con bé đang đá bóng.
+
+64
+00:03:15,019 --> 00:03:16,099
+What's her name?
+Tên của con bé là gì?
+
+65
+00:03:17,219 --> 00:03:18,500
+It's Daisy.
+Là Daisy ạ.
+
+66
+00:03:19,460 --> 00:03:21,019
+She's good at kicking.
+Con bé đá bóng giỏi đấy.
+
+67
+00:03:26,939 --> 00:03:27,539
+3
+3
+
+68
+00:03:29,460 --> 00:03:31,139
+That's my baby sister.
+Đó là em gái út của cháu.
+
+69
+00:03:31,939 --> 00:03:33,099
+Is she sleeping?
+Con bé đang ngủ à?
+
+70
+00:03:33,699 --> 00:03:34,500
+Yes.
+Vâng ạ.
+
+71
+00:03:35,019 --> 00:03:37,099
+Grandpa is sitting next to her.
+Ông đang ngồi bên cạnh con bé.
+
+72
+00:03:37,780 --> 00:03:38,900
+What's her name?
+Tên của con bé là gì?
+
+73
+00:03:39,539 --> 00:03:40,300
+Sally.
+Sally ạ.
+
+74
+00:03:46,379 --> 00:03:46,979
+4
+4
+
+75
+00:03:47,979 --> 00:03:50,780
+Who's the boy that's sitting down?
+Cậu bé đang ngồi kia là ai vậy?
+
+76
+00:03:51,500 --> 00:03:52,619
+Which one?
+Cậu bé nào ạ?
+
+77
+00:03:53,340 --> 00:03:55,379
+The one who's reading a book.
+Người đang đọc sách ấy.
+
+78
+00:03:56,259 --> 00:03:56,739
+Oh.
+Ồ.
+
+79
+00:03:57,620 --> 00:03:59,539
+That's my friend, Nick.
+Đó là bạn cháu, Nick.
+
+80
+00:04:00,259 --> 00:04:01,899
+He's always reading.
+Cậu ấy lúc nào cũng đọc sách.
+
+81
+00:04:07,979 --> 00:04:08,659
+5
+5
+
+82
+00:04:10,659 --> 00:04:13,099
+Is that your brother who's painting a picture?
+Người đang vẽ tranh có phải là anh trai cháu không?
+
+83
+00:04:13,699 --> 00:04:14,219
+No.
+Dạ không.
+
+84
+00:04:14,939 --> 00:04:16,500
+He's my friend's brother.
+Cậu ấy là anh trai của bạn cháu.
+
+85
+00:04:17,300 --> 00:04:18,540
+What's his name?
+Tên cậu ấy là gì?
+
+86
+00:04:19,580 --> 00:04:20,420
+It's Ben.
+Là Ben ạ.
+
+87
+00:04:21,300 --> 00:04:22,980
+Do you like his picture?
+Chú có thích bức tranh của cậu ấy không?
+
+88
+00:04:23,460 --> 00:04:25,500
+Yes. It's very good.
+Có. Nó rất đẹp.
+
+89
+00:04:31,460 --> 00:04:33,900
+That is the end of part 1.
+Đó là phần kết thúc của Phần 1.

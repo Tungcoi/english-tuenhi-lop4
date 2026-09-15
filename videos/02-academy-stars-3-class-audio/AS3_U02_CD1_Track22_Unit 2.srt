@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:14,080
+1. Mum and Dad wash up. 2. Mum and Dad and the children make the beds.
+1. Bố và Mẹ rửa bát. 2. Bố và Mẹ và các con dọn giường.
+
+2
+00:00:14,080 --> 00:00:29,440
+3. The children tidy up. 4. Mum and Dad and the children watch a film.
+3. Các con dọn dẹp. 4. Bố và Mẹ và các con xem phim.
+
+3
+00:00:30,000 --> 00:00:44,399
+5. Mum and Dad clean. 6. The children play computer games.
+5. Bố và Mẹ lau chùi. 6. Các con chơi trò chơi máy tính.
+
+4
+00:00:44,399 --> 00:00:51,759
+7. Mum and Dad dust.
+7. Bố và Mẹ lau bụi.

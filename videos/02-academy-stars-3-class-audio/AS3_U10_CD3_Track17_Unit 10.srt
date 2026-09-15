@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,000
+It's holiday time!
+Đến kỳ nghỉ rồi!
+
+2
+00:00:02,000 --> 00:00:04,000
+Lucky you!
+Bạn may mắn quá!
+
+3
+00:00:04,000 --> 00:00:06,000
+Are you going to visit Spain?
+Bạn sẽ đi thăm Tây Ban Nha à?
+
+4
+00:00:06,000 --> 00:00:08,000
+Yes, I am!
+Đúng rồi!
+
+5
+00:00:08,000 --> 00:00:12,000
+And are you going to go there by car?
+Và bạn sẽ đi đến đó bằng ô tô à?
+
+6
+00:00:12,000 --> 00:00:14,000
+No, I'm not.
+Không, không phải.
+
+7
+00:00:14,000 --> 00:00:16,000
+I'm going to travel by plane.
+Mình sẽ đi bằng máy bay.
+
+8
+00:00:16,000 --> 00:00:18,000
+What are you going to do there?
+Bạn sẽ làm gì ở đó?
+
+9
+00:00:18,000 --> 00:00:20,000
+I'm going to play football.
+Mình sẽ chơi bóng đá.
+
+10
+00:00:20,000 --> 00:00:22,000
+Are you going to speak Spanish?
+Bạn sẽ nói tiếng Tây Ban Nha à?
+
+11
+00:00:22,000 --> 00:00:24,000
+Well, I'm going to try!
+Ừm, mình sẽ cố thử!
+

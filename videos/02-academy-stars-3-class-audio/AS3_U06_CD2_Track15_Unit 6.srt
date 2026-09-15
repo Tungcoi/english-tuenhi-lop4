@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,000
+Tell me about your family.
+Kể cho mình nghe về gia đình bạn đi.
+
+2
+00:00:02,560 --> 00:00:04,440
+Who's the tallest?
+Ai cao nhất?
+
+3
+00:00:04,440 --> 00:00:06,440
+My dad is the tallest.
+Bố mình cao nhất.
+
+4
+00:00:06,919 --> 00:00:08,919
+Who's the friendliest?
+Ai thân thiện nhất?
+
+5
+00:00:09,519 --> 00:00:11,519
+My grandma is the friendliest.
+Bà mình thân thiện nhất.
+
+6
+00:00:12,040 --> 00:00:14,040
+Who's the best at football?
+Ai giỏi đá bóng nhất?
+
+7
+00:00:14,280 --> 00:00:16,879
+My brother is the best at football.
+Anh trai mình giỏi đá bóng nhất.
+
+8
+00:00:17,480 --> 00:00:19,480
+And who's the worst at drawing?
+Và ai vẽ tệ nhất?
+
+9
+00:00:19,719 --> 00:00:21,719
+Me!
+Mình!

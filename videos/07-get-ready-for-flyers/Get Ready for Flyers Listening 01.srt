@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:04,000
+Listening 1. Listen and read
+Bài nghe 1. Nghe và đọc
+
+2
+00:00:04,000 --> 00:00:10,000
+Hello, our names are Holly and Harry Brown. We're ten years old.
+Xin chào, tên của chúng mình là Holly và Harry Brown. Chúng mình mười tuổi.
+
+3
+00:00:10,000 --> 00:00:15,000
+We're twins. We drew our family tree.
+Chúng mình là hai anh em sinh đôi. Chúng mình đã vẽ cây phả hệ gia đình.

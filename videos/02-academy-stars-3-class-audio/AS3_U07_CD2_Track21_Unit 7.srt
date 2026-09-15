@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:11,000
+A little fly is a bright light in the night sky.
+Một con ruồi nhỏ là ánh sáng rực rỡ trên bầu trời đêm.
+
+2
+00:00:11,000 --> 00:00:29,839
+A little fly is a bright light in the night sky.
+Một con ruồi nhỏ là ánh sáng rực rỡ trên bầu trời đêm.
+
+3
+00:00:29,839 --> 00:00:33,840
+Now say the missing words.
+Bây giờ hãy nói các từ còn thiếu.
+
+4
+00:00:33,840 --> 00:00:41,840
+A little fly is a light in the night sky.
+Một con ruồi nhỏ là ánh sáng trên bầu trời đêm.
+
+5
+00:00:41,840 --> 00:00:45,840
+bright
+rực rỡ
+
+6
+00:00:45,840 --> 00:00:52,840
+A little fly is a bright in the night sky.
+Một con ruồi nhỏ là rực rỡ trên bầu trời đêm.
+
+7
+00:00:52,840 --> 00:00:56,840
+light
+ánh sáng
+
+8
+00:00:56,840 --> 00:01:14,840
+A little fly is a bright light in the night sky.
+Một con ruồi nhỏ là ánh sáng rực rỡ trên bầu trời đêm.
+
+9
+00:01:14,840 --> 00:01:19,840
+A little fly is...
+Một con ruồi nhỏ là...

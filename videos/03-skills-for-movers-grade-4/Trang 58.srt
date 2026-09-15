@@ -1,0 +1,195 @@
+1
+00:00:00,000 --> 00:00:01,000
+One.
+Một.
+
+2
+00:00:01,000 --> 00:00:05,360
+What sport do you want to try?
+Bạn muốn thử môn thể thao nào?
+
+3
+00:00:05,360 --> 00:00:06,919
+Do you like hockey?
+Bạn có thích khúc côn cầu không?
+
+4
+00:00:06,919 --> 00:00:11,040
+Yes, but I like tennis best.
+Có, nhưng mình thích quần vợt nhất.
+
+5
+00:00:11,040 --> 00:00:12,320
+That's nice.
+Hay đấy.
+
+6
+00:00:12,320 --> 00:00:13,919
+Do you play at school?
+Bạn có chơi ở trường không?
+
+7
+00:00:13,919 --> 00:00:19,400
+No I don't, but my friend does and he loves it.
+Không, mình không chơi, nhưng bạn mình có và bạn ấy rất thích.
+
+8
+00:00:19,400 --> 00:00:22,080
+Okay, so that's tennis then.
+Được rồi, vậy là quần vợt nhé.
+
+9
+00:00:31,000 --> 00:00:35,000
+And you're in Class 5H Tom?
+Và bạn học lớp 5H phải không Tom?
+
+10
+00:00:35,000 --> 00:00:37,000
+Yes, that's right.
+Đúng vậy.
+
+11
+00:00:37,000 --> 00:00:40,000
+And your teacher's name is Mr...?
+Và tên thầy giáo của bạn là thầy...?
+
+12
+00:00:40,000 --> 00:00:42,000
+Mr Lewis.
+Thầy Lewis.
+
+13
+00:00:42,000 --> 00:00:46,000
+Is that L-O-U-I-S?
+Có phải L-O-U-I-S không?
+
+14
+00:00:46,000 --> 00:00:53,000
+No it isn't. It's L-E-W-I-S.
+Không phải. Là L-E-W-I-S.
+
+15
+00:00:53,000 --> 00:00:54,000
+Oh, thanks.
+Ồ, cảm ơn.
+
+16
+00:01:01,000 --> 00:01:03,000
+Three.
+Ba.
+
+17
+00:01:03,000 --> 00:01:08,000
+Now, can you tell me your address Tom?
+Bây giờ, bạn có thể cho mình biết địa chỉ của bạn không Tom?
+
+18
+00:01:08,000 --> 00:01:12,000
+Yes, it's number three...
+Vâng, số ba...
+
+19
+00:01:12,000 --> 00:01:14,000
+Number three?
+Số ba?
+
+20
+00:01:14,000 --> 00:01:16,000
+High Street.
+Đường High.
+
+21
+00:01:16,000 --> 00:01:22,000
+High Street. Okay, and that's in Green Park?
+Đường High. Được rồi, và đó ở Green Park phải không?
+
+22
+00:01:22,000 --> 00:01:24,000
+Green Park, yes.
+Green Park, đúng vậy.
+
+23
+00:01:24,000 --> 00:01:26,000
+Right, good.
+Đúng rồi, tốt.
+
+24
+00:01:31,000 --> 00:01:33,000
+Four.
+Bốn.
+
+25
+00:01:33,000 --> 00:01:38,000
+Now then, this part is for your mum, okay?
+Bây giờ, phần này dành cho mẹ bạn, được chứ?
+
+26
+00:01:38,000 --> 00:01:39,000
+Okay.
+Được ạ.
+
+27
+00:01:39,000 --> 00:01:42,000
+It tells you what to bring to class with you.
+Nó cho bạn biết cần mang gì đến lớp.
+
+28
+00:01:42,000 --> 00:01:45,000
+Do I need to bring sandwiches?
+Con có cần mang bánh mì kẹp không?
+
+29
+00:01:45,000 --> 00:01:51,000
+Yes you do. Sandwiches and a drink of water of course.
+Có chứ. Bánh mì kẹp và nước uống tất nhiên rồi.
+
+30
+00:01:51,000 --> 00:01:52,000
+Okay.
+Được ạ.
+
+31
+00:02:01,000 --> 00:02:03,000
+Five.
+Năm.
+
+32
+00:02:03,000 --> 00:02:08,000
+And you need to bring a sweater to put on after class.
+Và bạn cần mang một chiếc áo len để mặc sau giờ học.
+
+33
+00:02:08,000 --> 00:02:10,000
+My school sweater?
+Áo len trường của con ạ?
+
+34
+00:02:10,000 --> 00:02:20,000
+Yes, that's fine. And one more thing, bring a towel for after the game because it's very hot in the Sports Centre.
+Được, vậy là ổn. Và một điều nữa, mang theo khăn tắm sau trận đấu vì Trung tâm Thể thao rất nóng.
+
+35
+00:02:20,000 --> 00:02:21,000
+Okay.
+Được ạ.
+
+36
+00:02:21,000 --> 00:02:23,000
+Enjoy the class Tom.
+Chúc vui lớp học nhé Tom.
+
+37
+00:02:23,000 --> 00:02:24,000
+Thank you.
+Cảm ơn ạ.
+
+38
+00:02:31,000 --> 00:02:35,000
+Now listen to part two again.
+Bây giờ hãy nghe lại phần hai.
+
+39
+00:02:37,000 --> 00:02:40,000
+That is the end of part two.
+Đó là phần kết thúc của phần hai.
+

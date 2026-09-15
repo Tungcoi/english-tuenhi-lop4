@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:03,000
+Goodbye, Big Shark.
+Tạm biệt, Cá mập Lớn.

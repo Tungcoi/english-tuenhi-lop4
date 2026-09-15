@@ -1,0 +1,54 @@
+1
+00:00:00,000 --> 00:00:04,740
+Can I ask you some questions?
+Mình hỏi bạn vài câu được không?
+
+2
+00:00:04,740 --> 00:00:08,839
+How often do you wash your hair?
+Bạn gội đầu bao lâu một lần?
+
+3
+00:00:08,839 --> 00:00:11,200
+Twice a week.
+Hai lần một tuần.
+
+4
+00:00:11,200 --> 00:00:14,240
+How often do you eat bread?
+Bạn ăn bánh mì bao lâu một lần?
+
+5
+00:00:14,240 --> 00:00:17,260
+Three times a day.
+Ba lần một ngày.
+
+6
+00:00:17,260 --> 00:00:20,640
+How often do you watch a film?
+Bạn xem phim bao lâu một lần?
+
+7
+00:00:20,640 --> 00:00:22,920
+Once a month.
+Một lần một tháng.
+
+8
+00:00:22,920 --> 00:00:26,320
+And how often do you play basketball?
+Và bạn chơi bóng rổ bao lâu một lần?
+
+9
+00:00:26,320 --> 00:00:27,320
+Never.
+Không bao giờ.
+
+10
+00:00:27,320 --> 00:00:28,320
+Thank you.
+Cảm ơn bạn.
+
+11
+00:00:28,320 --> 00:00:30,560
+That's very interesting.
+Thật thú vị.

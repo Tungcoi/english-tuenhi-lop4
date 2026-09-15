@@ -1,0 +1,469 @@
+1
+00:00:00,000 --> 00:00:01,000
+Test 1
+Bài kiểm tra 1
+
+2
+00:00:01,940 --> 00:00:02,940
+Listening
+Phần nghe
+
+3
+00:00:03,780 --> 00:00:04,780
+Part 2
+Phần 2
+
+4
+00:00:05,799 --> 00:00:07,799
+Listen and look
+Nghe và nhìn
+
+5
+00:00:08,900 --> 00:00:10,599
+There is one example.
+Có một ví dụ.
+
+6
+00:00:12,500 --> 00:00:15,000
+I was at a sports day last week.
+Cháu đã tham gia ngày hội thể thao tuần trước.
+
+7
+00:00:15,400 --> 00:00:17,699
+Oh, was it at school?
+Ồ, ngày hội ở trường à?
+
+8
+00:00:18,199 --> 00:00:21,000
+No, it was at the sports centre.
+Dạ không, ở trung tâm thể thao ạ.
+
+9
+00:00:21,699 --> 00:00:23,000
+The sports centre?
+Trung tâm thể thao à?
+
+10
+00:00:23,500 --> 00:00:25,400
+Yes, that's right.
+Vâng, đúng vậy ạ.
+
+11
+00:00:26,399 --> 00:00:28,399
+Can you see the answer?
+Cháu có nhìn thấy câu trả lời không?
+
+12
+00:00:29,399 --> 00:00:32,399
+Now you listen and write.
+Bây giờ các cháu hãy nghe và viết nhé.
+
+13
+00:00:33,899 --> 00:00:34,899
+1
+1
+
+14
+00:00:36,399 --> 00:00:39,899
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+15
+00:00:40,399 --> 00:00:43,399
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+16
+00:00:43,899 --> 00:00:46,399
+Right. Wednesday morning?
+Được rồi. Sáng thứ Tư à?
+
+17
+00:00:46,899 --> 00:00:49,399
+No, after school.
+Dạ không, sau giờ học ạ.
+
+18
+00:00:50,399 --> 00:00:51,399
+2
+2
+
+19
+00:00:51,399 --> 00:00:54,399
+How many different kinds of sports were there?
+Có bao nhiêu môn thể thao khác nhau ở đó?
+
+20
+00:00:54,899 --> 00:00:57,399
+I think there were eight.
+Cháu nghĩ có tám môn.
+
+21
+00:00:57,899 --> 00:00:59,899
+Um, no, ten.
+À không, mười môn ạ.
+
+22
+00:01:00,399 --> 00:01:02,399
+Ten? That's a lot.
+Mười môn ư? Nhiều thật đấy.
+
+23
+00:01:02,899 --> 00:01:04,400
+Yes, it is.
+Vâng ạ.
+
+24
+00:01:05,900 --> 00:01:06,900
+3
+3
+
+25
+00:01:07,400 --> 00:01:10,400
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+26
+00:01:10,900 --> 00:01:13,400
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+27
+00:01:13,900 --> 00:01:16,400
+Right. It was last Wednesday.
+Đúng rồi. Là thứ Tư tuần trước.
+
+28
+00:01:16,900 --> 00:01:17,900
+Right.
+Đúng rồi.
+
+29
+00:01:17,900 --> 00:01:18,900
+3
+3
+
+30
+00:01:19,900 --> 00:01:22,900
+Which is your favourite sport?
+Môn thể thao yêu thích của cháu là gì?
+
+31
+00:01:23,400 --> 00:01:26,900
+I like basketball, but it's not my favourite.
+Cháu thích bóng rổ, nhưng đó không phải môn yêu thích nhất.
+
+32
+00:01:27,400 --> 00:01:29,900
+My favourite is table tennis.
+Môn yêu thích nhất của cháu là bóng bàn.
+
+33
+00:01:30,400 --> 00:01:31,900
+Table tennis?
+Bóng bàn à?
+
+34
+00:01:32,400 --> 00:01:33,900
+Yes, that's right.
+Vâng, đúng vậy ạ.
+
+35
+00:01:34,400 --> 00:01:35,400
+Right.
+Được rồi.
+
+36
+00:01:35,900 --> 00:01:38,900
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+37
+00:01:39,400 --> 00:01:41,900
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+38
+00:01:42,400 --> 00:01:43,400
+Right.
+Đúng rồi.
+
+39
+00:01:43,900 --> 00:01:44,900
+Right.
+Đúng rồi.
+
+40
+00:01:45,400 --> 00:01:46,400
+4
+4
+
+41
+00:01:47,400 --> 00:01:49,900
+Did you have any food there?
+Cháu có ăn gì ở đó không?
+
+42
+00:01:50,400 --> 00:01:53,400
+No, we had a picnic at City Park.
+Dạ không, chúng cháu đã đi dã ngoại ở City Park.
+
+43
+00:01:53,900 --> 00:01:55,400
+Centre Park?
+Centre Park à?
+
+44
+00:01:55,900 --> 00:01:59,900
+No, City. C-I-T-Y.
+Dạ không, City. C-I-T-Y ạ.
+
+45
+00:02:00,400 --> 00:02:02,400
+Oh yes, I know it.
+Ồ đúng rồi, chú biết nơi đó.
+
+46
+00:02:03,400 --> 00:02:04,400
+5
+5
+
+47
+00:02:04,900 --> 00:02:07,900
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+48
+00:02:08,400 --> 00:02:10,900
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+49
+00:02:11,400 --> 00:02:12,400
+Right.
+Đúng rồi.
+
+50
+00:02:12,900 --> 00:02:13,900
+5
+5
+
+51
+00:02:14,900 --> 00:02:16,900
+What did you have to eat?
+Cháu đã ăn gì thế?
+
+52
+00:02:17,400 --> 00:02:19,400
+I had my favourite food.
+Cháu đã ăn món khoái khẩu của mình.
+
+53
+00:02:19,900 --> 00:02:22,400
+What's that? Ice cream?
+Món gì thế? Kem à?
+
+54
+00:02:22,900 --> 00:02:25,900
+Yes, that's right. Ice cream.
+Vâng, đúng vậy ạ. Là kem.
+
+55
+00:02:26,400 --> 00:02:27,400
+Right.
+Được rồi.
+
+56
+00:02:27,900 --> 00:02:30,400
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+57
+00:02:30,900 --> 00:02:32,900
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+58
+00:02:33,400 --> 00:02:34,400
+Right.
+Đúng rồi.
+
+59
+00:02:34,900 --> 00:02:35,900
+Right.
+Đúng rồi.
+
+60
+00:02:36,400 --> 00:02:37,400
+Right.
+Đúng rồi.
+
+61
+00:02:37,900 --> 00:02:38,900
+Right.
+Đúng rồi.
+
+62
+00:02:39,400 --> 00:02:40,400
+Right.
+Đúng rồi.
+
+63
+00:02:40,900 --> 00:02:43,900
+Now listen to part 2 again.
+Bây giờ hãy nghe lại Phần 2.
+
+64
+00:02:44,900 --> 00:02:45,900
+1
+1
+
+65
+00:02:47,400 --> 00:02:50,900
+What day was it on? Was it Monday?
+Ngày hội diễn ra vào thứ mấy? Có phải thứ Hai không?
+
+66
+00:02:51,400 --> 00:02:53,900
+No, it was last Wednesday.
+Dạ không, là thứ Tư tuần trước ạ.
+
+67
+00:02:54,400 --> 00:02:55,400
+Right.
+Được rồi.
+
+68
+00:02:55,900 --> 00:02:57,400
+Wednesday morning?
+Sáng thứ Tư à?
+
+69
+00:02:57,900 --> 00:02:59,900
+No, after school.
+Dạ không, sau giờ học ạ.
+
+70
+00:03:11,400 --> 00:03:12,400
+2
+2
+
+71
+00:03:13,400 --> 00:03:16,400
+How many different kinds of sports were there?
+Có bao nhiêu môn thể thao khác nhau ở đó?
+
+72
+00:03:16,900 --> 00:03:19,400
+I think there were 8.
+Cháu nghĩ có 8 môn.
+
+73
+00:03:19,900 --> 00:03:21,900
+Um, no, 10.
+À không, 10 môn ạ.
+
+74
+00:03:22,400 --> 00:03:24,400
+10? That's a lot.
+10 môn ư? Nhiều thật đấy.
+
+75
+00:03:24,900 --> 00:03:26,400
+Yes, it is.
+Vâng ạ.
+
+76
+00:03:35,900 --> 00:03:36,900
+3
+3
+
+77
+00:03:37,400 --> 00:03:38,400
+3
+3
+
+78
+00:03:39,900 --> 00:03:42,400
+Which is your favourite sport?
+Môn thể thao yêu thích của cháu là gì?
+
+79
+00:03:42,900 --> 00:03:46,900
+I like basketball, but it's not my favourite.
+Cháu thích bóng rổ, nhưng đó không phải môn yêu thích nhất.
+
+80
+00:03:47,400 --> 00:03:49,900
+My favourite is table tennis.
+Môn yêu thích nhất của cháu là bóng bàn.
+
+81
+00:03:50,400 --> 00:03:51,400
+Table tennis?
+Bóng bàn à?
+
+82
+00:03:51,900 --> 00:03:53,900
+Yes, that's right.
+Vâng, đúng vậy ạ.
+
+83
+00:04:03,900 --> 00:04:04,900
+4
+4
+
+84
+00:04:05,900 --> 00:04:08,400
+Did you have any food there?
+Cháu có ăn gì ở đó không?
+
+85
+00:04:08,900 --> 00:04:12,400
+No, we had a picnic at City Park.
+Dạ không, chúng cháu đã đi dã ngoại ở City Park.
+
+86
+00:04:12,900 --> 00:04:13,900
+Centre Park?
+Centre Park à?
+
+87
+00:04:14,400 --> 00:04:18,399
+No, City. C-I-T-Y.
+Dạ không, City. C-I-T-Y ạ.
+
+88
+00:04:18,899 --> 00:04:20,899
+Oh yes, I know it.
+Ồ đúng rồi, chú biết nơi đó.
+
+89
+00:04:30,899 --> 00:04:31,899
+5
+5
+
+90
+00:04:32,899 --> 00:04:34,899
+What did you have to eat?
+Cháu đã ăn gì thế?
+
+91
+00:04:35,399 --> 00:04:37,899
+I had my favourite food.
+Cháu đã ăn món khoái khẩu của mình.
+
+92
+00:04:38,399 --> 00:04:40,899
+What's that? Ice cream?
+Món gì thế? Kem à?
+
+93
+00:04:41,399 --> 00:04:44,899
+Yes, that's right. Ice cream.
+Vâng, đúng vậy ạ. Là kem.
+
+94
+00:04:49,899 --> 00:04:52,899
+That is the end of part 2.
+Đó là phần kết thúc của Phần 2.

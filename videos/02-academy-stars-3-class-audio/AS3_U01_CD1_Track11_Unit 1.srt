@@ -1,0 +1,34 @@
+1
+00:00:00,000 --> 00:00:09,120
+Hello Lucy. Good morning. Can I ask you some questions about what you like? Do
+Xin chào Lucy. Chào buổi sáng. Mình hỏi bạn vài câu về những gì bạn thích được không? Bạn
+
+2
+00:00:09,120 --> 00:00:18,280
+you like playing computer games? Oh no, I'm good at computer studies but I don't
+có thích chơi trò chơi máy tính không? Ồ không, mình giỏi tin học nhưng mình không
+
+3
+00:00:18,280 --> 00:00:28,199
+like computer games. Okay, what about sport? Are you good at sport? Yes, I'm
+thích trò chơi máy tính. Được rồi, thế thể thao thì sao? Bạn có giỏi thể thao không? Có, mình
+
+4
+00:00:28,199 --> 00:00:39,359
+very good at sport and I love running. And do you like ball games? Yes, I do.
+rất giỏi thể thao và mình thích chạy bộ. Và bạn có thích các trò chơi bóng không? Có, mình thích.
+
+5
+00:00:40,320 --> 00:00:49,560
+Good morning Sam. How are you today? I'm fine thanks. Sam, tell me what you are
+Chào buổi sáng Sam. Hôm nay bạn thế nào? Mình khỏe cảm ơn. Sam, nói cho mình biết bạn
+
+6
+00:00:49,560 --> 00:00:57,519
+good at. Well, I'm good at science and art. And do you like plants and animals?
+giỏi gì. À, mình giỏi khoa học và mỹ thuật. Và bạn có thích cây cối và động vật không?
+
+7
+00:00:57,520 --> 00:01:02,800
+Yes, I do. I really like learning about plants and animals.
+Có, mình thích. Mình thực sự thích tìm hiểu về cây cối và động vật.

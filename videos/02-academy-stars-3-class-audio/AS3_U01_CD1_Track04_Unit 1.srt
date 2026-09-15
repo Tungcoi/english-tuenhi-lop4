@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:05,000
+science, English
+khoa học, tiếng Anh
+
+2
+00:00:05,000 --> 00:00:10,000
+computer studies
+tin học
+
+3
+00:00:10,000 --> 00:00:15,000
+computer studies, music
+tin học, âm nhạc
+
+4
+00:00:15,000 --> 00:00:20,000
+break time
+giờ ra chơi
+
+5
+00:00:20,000 --> 00:00:25,000
+break time, maths
+giờ ra chơi, toán
+
+6
+00:00:25,000 --> 00:00:30,000
+social studies
+xã hội
+
+7
+00:00:30,000 --> 00:00:35,000
+social studies, PE
+xã hội, thể dục
+
+8
+00:00:35,000 --> 00:00:40,000
+art
+mỹ thuật
+
+9
+00:00:40,000 --> 00:00:45,000
+now more difficult, art
+bây giờ khó hơn, mỹ thuật
+
+10
+00:00:45,000 --> 00:00:50,000
+homework
+bài tập về nhà
+
+11
+00:00:50,000 --> 00:00:55,000
+science
+khoa học
+
+12
+00:00:55,000 --> 00:01:00,000
+now you
+bây giờ đến bạn
+
+13
+00:01:20,000 --> 00:01:25,000
+social studies
+xã hội
+
+14
+00:01:25,000 --> 00:01:30,000
+social studies, PE
+xã hội, thể dục
+
+15
+00:01:30,000 --> 00:01:35,000
+art
+mỹ thuật
+
+16
+00:01:35,000 --> 00:01:40,000
+homework
+bài tập về nhà

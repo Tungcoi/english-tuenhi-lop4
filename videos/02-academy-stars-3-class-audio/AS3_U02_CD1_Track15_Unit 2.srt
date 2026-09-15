@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:04,000
+Make the bed
+Dọn giường
+
+2
+00:00:04,000 --> 00:00:09,000
+Before read a comic
+Trước đọc truyện tranh
+
+3
+00:00:09,000 --> 00:00:14,000
+Watch a film
+Xem phim
+
+4
+00:00:14,000 --> 00:00:21,000
+Before tidy up, after wash up
+Trước dọn dẹp, sau rửa bát
+
+5
+00:00:21,000 --> 00:00:25,000
+Now you
+Bây giờ đến bạn
+
+6
+00:00:25,000 --> 00:00:32,000
+1. Play chess
+1. Chơi cờ
+
+7
+00:00:32,000 --> 00:00:39,000
+2. Sweep the floor
+2. Quét nhà
+
+8
+00:00:39,000 --> 00:00:47,000
+3. Play computer games
+3. Chơi trò chơi máy tính
+
+9
+00:00:47,000 --> 00:00:54,000
+4. Read a comic
+4. Đọc truyện tranh
+
+10
+00:00:54,000 --> 00:01:01,000
+5. Dust
+5. Lau bụi

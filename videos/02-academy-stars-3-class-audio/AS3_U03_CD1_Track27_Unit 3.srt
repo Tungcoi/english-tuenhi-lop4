@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:14,000
+Prove the kangaroo is on the moon with a blue balloon.
+Chứng minh con chuột túi ở trên mặt trăng với một quả bóng bay xanh.
+
+2
+00:00:14,000 --> 00:00:22,000
+Prove the kangaroo is on the moon with a blue balloon.
+Chứng minh con chuột túi ở trên mặt trăng với một quả bóng bay xanh.
+
+3
+00:00:30,000 --> 00:00:34,000
+Now say the missing words.
+Bây giờ nói từ còn thiếu.
+
+4
+00:00:34,000 --> 00:00:43,000
+Prove the kangaroo is on the moon with a balloon.
+Chứng minh con chuột túi ở trên mặt trăng với một quả bóng bay.
+
+5
+00:00:43,000 --> 00:00:46,000
+blue
+xanh
+
+6
+00:00:46,000 --> 00:00:55,000
+Prove is on the moon with a blue balloon.
+Chứng minh ở trên mặt trăng với một quả bóng bay xanh.
+
+7
+00:00:55,000 --> 00:00:59,000
+the kangaroo
+con chuột túi
+
+8
+00:00:59,000 --> 00:01:07,000
+Prove the kangaroo with a blue balloon.
+Chứng minh con chuột túi với một quả bóng bay xanh.
+
+9
+00:01:07,000 --> 00:01:11,000
+is on the moon
+ở trên mặt trăng
+
+10
+00:01:11,000 --> 00:01:25,000
+Prove the kangaroo is on the moon with a blue balloon.
+Chứng minh con chuột túi ở trên mặt trăng với một quả bóng bay xanh.

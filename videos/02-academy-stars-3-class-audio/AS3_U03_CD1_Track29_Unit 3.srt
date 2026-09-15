@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:03,500
+Where were you on Saturday?
+Thứ Bảy bạn ở đâu?
+
+2
+00:00:03,500 --> 00:00:05,839
+I was at the park.
+Mình ở công viên.
+
+3
+00:00:05,839 --> 00:00:07,459
+When were you there?
+Bạn ở đó khi nào?
+
+4
+00:00:07,459 --> 00:00:10,019
+I was there in the afternoon.
+Mình ở đó vào buổi chiều.
+
+5
+00:00:10,019 --> 00:00:11,939
+Who were you with?
+Bạn đi với ai?
+
+6
+00:00:11,939 --> 00:00:17,379
+I was with my aunt, uncle and cousins.
+Mình đi với dì, chú và các anh chị em họ.
+
+7
+00:00:17,379 --> 00:00:19,500
+What was the weather like?
+Thời tiết thế nào?
+
+8
+00:00:19,500 --> 00:00:20,379
+It was sunny.
+Trời nắng.
