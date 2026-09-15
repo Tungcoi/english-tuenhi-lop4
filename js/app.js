@@ -125,7 +125,9 @@
   document.addEventListener("click", function (e) {
     var subBtn = e.target.closest(".ai-track-sub");
     if (subBtn) {
+      e.preventDefault();
       e.stopPropagation();
+      e.stopImmediatePropagation();
       var srtPath = subBtn.dataset.srt;
       var trackEl = subBtn.closest(".ai-track");
       var trackName = trackEl ? trackEl.dataset.name : "Phụ đề";
@@ -135,6 +137,8 @@
 
     var track = e.target.closest(".ai-track");
     if (track) {
+      // Don't play if click was on subtitle button (double check)
+      if (e.target.closest(".ai-track-sub")) return;
       var si = parseInt(track.dataset.section, 10);
       var ti = parseInt(track.dataset.index, 10);
       playTrack(si, ti);

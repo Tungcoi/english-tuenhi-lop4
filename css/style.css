@@ -414,16 +414,27 @@ ul { list-style: none; }
    SUBTITLE MODAL
    ============================================================ */
 .ai-track-sub {
-  color: #888;
-  padding: 0 8px;
+  color: #11afaa;
+  padding: 6px 10px;
   cursor: pointer;
   display: flex;
   align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+  min-width: 32px;
+  min-height: 32px;
+  justify-content: center;
 }
 .ai-track-sub:hover {
-  color: #e91e63;
+  background: rgba(17,175,170,0.15);
+  color: #0d8f8a;
 }
-.ai-track:hover .ai-track-sub {
+.ai-track.active .ai-track-sub {
+  color: #fff;
+}
+.ai-track.active .ai-track-sub:hover {
+  background: rgba(255,255,255,0.2);
   color: #fff;
 }
 
